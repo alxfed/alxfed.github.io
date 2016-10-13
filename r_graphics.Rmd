@@ -1,0 +1,37 @@
+---
+title: "R Graphics Murrell, Notebook"
+output: html_notebook
+---
+
+Simple plot
+
+```{r}
+plot(1:10, 1:10, col="blue", lty="dashed", axes=FALSE, type="l")
+```
+
+Read Weather Data
+
+```{r}
+load("E:/R/Chicago Weather/Monthly_Foster_Weather.rda")
+```
+
+
+Plot Humidity out of Foster Monthly Weather.
+
+```{r}
+plot(Monthly_Foster_Weather$Month, Monthly_Foster_Weather$Humidity, col="green", type = "p")
+```
+
+with inscription
+
+```{r}
+plot(Monthly_Foster_Weather$Month, Monthly_Foster_Weather$Humidity, col="blue", type = "p")
+text(4, 67, "Humidity in %")
+```
+
+Transform the dataframe
+
+```{r}
+df <- Monthly_Foster_Weather
+```
+
