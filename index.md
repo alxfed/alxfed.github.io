@@ -10,7 +10,7 @@ Green Card holder, complete work authorization in the US.
 
 __Tools:__ there is nothing in the world a Ph.D. in Physics and Mathematics who started writing code in assembler on PDP-8 can not learn in a month. I'm serious.<br>
 I feel most comfortable using RStudio/R and SQLite (with an external HD on USB 3.0) for my everyday work or Python with libraries for ordinary computations but I can dive into the depth of LLVM and C too if is absolutely necessary.
-<br><br>
+<br><br><br>
 ### On-line Card Technologies, Inc. (Chicago, IL)
 2003-2016
 
