@@ -3,7 +3,7 @@
 ### Work with data
 2017-...
 
-Data scientist, independent contractor.
+_Data scientist, independent contractor._
 
 I take small to medium Data Science projects (less than a year) in Chicago or tele.
 Green Card holder, complete work authorization in the US.
