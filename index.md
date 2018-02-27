@@ -1,11 +1,11 @@
 # Resume/CV
 
-### (2017-present) Work with data
+### Work with data
 2017-...
 
 __*Data scientist, independent contractor.*__
 
-I take small to medium Data Science projects (less than a year) in Chicago or tele.
+>I take small to medium Data Science projects (less than a year) in Chicago or tele.
 Green Card holder, complete work authorization in the US.
 
 Tools: there is nothing in the world a Ph.D. in Physics and Mathematics who started writing code in assembler on PDP-8 can not learn in a month. I'm serious.<br>
