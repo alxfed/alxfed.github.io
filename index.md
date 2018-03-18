@@ -9,14 +9,16 @@ I take small to medium Data Science projects (less than a year) in Chicago or te
 Green Card holder, complete work authorization in the US.
 
 __A typical project:__
-- Definition of the problem and tools;
+- Definition of the problem and tools; definition of what should be delivered;
 - Data cleaning and organizing in a usable 'library' (I don't use marketing terms like 'lakes' etc.etc.);
 - Modelling and the 'Design of Experiment' or choice of a Machine Learning tool(s);
 - Work itself;
-- Presentation of Results and deliverables.
+- Presentation of results and deliverables; reprocessing and reformatting of results if necessary.
 
-__Tools:__ I feel most comfortable using RStudio/R and MongoDB or SQLite (with an external 1T HD on USB 3.0) for my everyday work or Python with libraries for ordinary computations but I can dive into the depth of LLVM and C too if it is necessary.<br><br>
+__Tools:__ I feel most comfortable using RStudio/R and MongoDB or SQLite (with an external 1T HD on USB 3.0) for my everyday work or Python with libraries for ordinary computations but I can dive into the depth of LLVM and C too if it is necessary.<br>
 Also, there is nothing in the world a Ph.D. in Physics and Mathematics who started writing code in assembler on PDP-8 in 1978 an has been working with experimental data ever since can not learn in a month. I can prove it.<br>
+
+__Interests:__ I'm interested in Topological Data Analysis, Multivariate scaling and Principle Component Analysis. I read and write texts and code about it in my spare time.
 <br><br><br>
 ### On-line Card Technologies, Inc. (Chicago, IL)
 2003-2016
