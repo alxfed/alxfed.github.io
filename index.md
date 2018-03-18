@@ -12,7 +12,7 @@ __A typical project:__
 - Definition of the problem and tools;
 - Data cleaning and organizing in a usable 'library' (I don't use marketing terms like 'lakes' etc.etc.);
 - Modelling and the 'Design of Experiment' or choice of a Machine Learning tool(s);
-- Work;
+- Work itself;
 - Presentation of Results and deliverables.
 
 __Tools:__ I feel most comfortable using RStudio/R and MongoDB or SQLite (with an external 1T HD on USB 3.0) for my everyday work or Python with libraries for ordinary computations but I can dive into the depth of LLVM and C too if it is necessary.<br><br>
