@@ -8,6 +8,13 @@ __*Data scientist, independent contractor.*__
 I take small to medium Data Science projects (less than a year) in Chicago or tele.<br>
 Green Card holder, complete work authorization in the US.
 
+__A typical project:__
+- Definition of the problem and tools;
+- Data cleaning and organizing in a usable library;
+- Modelling and the 'Design of Experiment' or choise of Machine Learning tools;
+- Work;
+- Presentation of Results and deliverables.
+
 __Tools:__ I feel most comfortable using RStudio/R and MongoDB or SQLite (with an external 1T HD on USB 3.0) for my everyday work or Python with libraries for ordinary computations but I can dive into the depth of LLVM and C too if it is necessary.<br><br>
 Also, there is nothing in the world a Ph.D. in Physics and Mathematics who started writing code in assembler on PDP-8 in 1978 an has been working with experimental data ever since can not learn in a month. I can prove it.<br>
 <br><br><br>
@@ -56,13 +63,13 @@ Research and development company that engineered and patented an Erbium medical 
 
 __*Junior Research Associate - Research Associate;*__
 
-Physical Experiments and Experiment automation on high-power relativistic electron beam accelerator.
+Physical experiments and experiment automation on high-power relativistic electron beam accelerator.
 Skills: PDP 8 and 11, CAMAC (Computer-Aided Measurement And Control), 
 Tools: Assembler, Focal/Fortran, Pascal/Modula, C/C++.
 <br><br><br>
 ### Moscow State University (Moscow)
 1973-1979
 
-__*Student - Ph.D. in Physics and Mathematics. Plasma physics.*__
+__*Student (Physical electronics, Plasma physics) - Ph.D. in Physics and Mathematics. Plasma physics.*__
 
 [My resume on LinkedIn](https://www.linkedin.com/in/alexfedotov/)
