@@ -10,7 +10,7 @@ Green Card holder, complete work authorization in the US.
 
 __A typical project:__
 - Definition of the problem and tools;
-- Data cleaning and organizing in a usable library;
+- Data cleaning and organizing in a usable 'library';
 - Modelling and the 'Design of Experiment' or choise of Machine Learning tools;
 - Work;
 - Presentation of Results and deliverables.
