@@ -8,7 +8,7 @@ __*Data scientist, independent contractor.*__
 I take small to medium Data Science projects (less than a year) in Chicago or tele.<br>
 Green Card holder, complete work authorization in the US.
 
-__Tools:__ I feel most comfortable using RStudio/R and MongoDB or SQLite (with an external 1T HD on USB 3.0) for my everyday work or Python with libraries for ordinary computations but I can dive into the depth of LLVM and C too if is necessary.<br><br>
+__Tools:__ I feel most comfortable using RStudio/R and MongoDB or SQLite (with an external 1T HD on USB 3.0) for my everyday work or Python with libraries for ordinary computations but I can dive into the depth of LLVM and C too if it is necessary.<br><br>
 Also, there is nothing in the world a Ph.D. in Physics and Mathematics who started writing code in assembler on PDP-8 can not learn in a month. I'm serious.<br>
 <br><br><br>
 ### On-line Card Technologies, Inc. (Chicago, IL)
