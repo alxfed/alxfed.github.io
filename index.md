@@ -1,6 +1,5 @@
 # Resume/CV
 
-### Work with data
 2017 - present
 
 __*Data scientist, independent contractor.*__
