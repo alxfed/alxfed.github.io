@@ -4,7 +4,7 @@
 
 __*Data scientist, independent contractor.*__
 
-I take small to medium Data Science projects (less than a year) in Chicago or tele.<br>
+I take small to medium Data Science projects (less than a year) in Chicago, IL or tele.<br>
 Green Card holder, complete work authorization in the US.
 
 __A typical project:__
