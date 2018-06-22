@@ -7,3 +7,4 @@ layout: home
 title: ""
 ---
 Data scientist, independent contractor. Ph.D. in Physics and Mathematics.
+<br><br>
