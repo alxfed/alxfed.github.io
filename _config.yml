@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   of experimental physics, in 1978, and on and on it went, but it was always
   about experimental data and what you do with it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alxfed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alxfed
 github_username:  alxfed
 
