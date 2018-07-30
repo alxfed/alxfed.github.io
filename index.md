@@ -11,7 +11,7 @@ subtitle: "or who am I."
 Data scientist, independent contractor. Ph.D. in Physics and Mathematics.
 I take small or medium data science / data engineering projects.
 <br><br>
-![lake](/images/Least_Squares.png)
+![least_squares](/images/Least_Squares2.png)
 <br>
-<small>I took this picture of Lake Michigan from my balcony.</small>
+<small>This is an illustration of the Least Squares method. Johann Carl Friedrich Gauss proved that it’s enough for most of the things we observe on Earth and in Universe.</small>
 <br><br>
