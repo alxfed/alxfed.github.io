@@ -14,4 +14,4 @@ I take small or medium data science / data engineering projects.
 ![lake](/images/lake.jpg)
 <br>
 <small>I took this picture of Lake Michigan from my balcony.</small>
-<br>
+<br><br>
