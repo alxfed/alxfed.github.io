@@ -5,6 +5,8 @@
 
 layout: home
 title: ""
+subtitle: "or who am I."
 ---
 Data scientist, independent contractor. Ph.D. in Physics and Mathematics.
+I take small or medium data science / data engineering projects.
 <br><br>
