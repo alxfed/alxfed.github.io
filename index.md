@@ -13,5 +13,5 @@ I take small to medium data science / data engineering projects. Drop me a line 
 <br><br>
 ![least_squares](/images/Least_Squares3.png)
 <br>
-<small>This is an illustration of the "Least Squares" method. These are the "squares" that you've been hearing about all along. Johann Carl Friedrich Gauss proved that it’s enough for most of the things we observe on Earth and in Universe.</small>
+<small>This is an illustration of the "Least Squares" method. These are the "squares" that you've been hearing about all along. Johann Carl Friedrich Gauss proved that it’s enough for most of the things we observe on Earth and in Universe. Read more about this picture here: [least squares illustration](https://github.com/alxfed/least-squares-illustration/blob/master/least-squares.md)</small>
 <br><br>
