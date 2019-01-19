@@ -28,7 +28,9 @@ The other organizations are:
 <br><br>
 The other thematic virtual organizations are:
 - [natural-language](https://github.com/natural-language);
+- [natural-language-understanding](https://github.com/natural-language-understanding);
 - [natural-language-meaning](https://github.com/natural-language-meaning);
+- [natural-language-generation](https://github.com/natural-language-generation);
 - [natural-english](https://github.com/natural-english).
 <br><br>
 I only squat good names when I know that the bedrock gold is right here, 'Burning Daylight' taught me that, when I read a book about him as a little boy. But I'm not greedy, ping me if you'd like to come _with your own repository_ and participate, I will fork it at your request into one of these virtual organizations.
