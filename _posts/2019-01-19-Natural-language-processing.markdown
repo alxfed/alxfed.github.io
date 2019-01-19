@@ -23,7 +23,7 @@ The other organizations are:
 - [in-plain-english](https://github.com/in-plain-english);
 - [in-simple-english](https://github.com/in-simple-english);
 - [in-english](https://github.com/in-english); 
-- [universal-english](https://github.com/universal-english));
+- [universal-english](https://github.com/universal-english);
 - [common-english](https://github.com/common-english);
 - [in-common-english](https://github.com/in-common-english);
 <br>
