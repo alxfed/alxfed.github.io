@@ -34,3 +34,5 @@ The other thematic virtual organizations are:
 - [natural-english](https://github.com/natural-english).
 <br><br>
 I only squat good names when I know that the bedrock gold is right here, 'Burning Daylight' taught me that, when I read a book about him as a little boy. But I'm not greedy, ping me if you'd like to come _with your own repository_ and participate, I will fork it at your request into one of these virtual organizations.
+<br><br>
+Talk to you later.
