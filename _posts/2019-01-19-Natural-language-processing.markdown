@@ -5,7 +5,6 @@ subtitle: "Why I created all of these virtual organizations on GitHub."
 date:   2019-01-19  9:19 am
 categories: blog posts
 ---
-<br><br>
 There are several problems in the Natural Language Processing Universe that I would like to explore and, maybe, try to solve or at least contibute to their solution. Namely:
 * The problem of synthesizing a language for automated systems that will be communicating with humans. It's a two-fold problem that consists of two connected parts: inventing a classification of meanings similar to Roget's and developing algorithms that will synthesize the controlled language based on these ideas and a contemporary 'corpus' of texts ([robo-english](https://github.com/robo-english));
 * The overall problem of 'simplification' of English Language in a way that serves the purpose of communications in science and technology better than our present tendency of 'axiomatization' that took over Mathematics and Physics after the first third of the XX-th century and has gone rampant in the age of 'internet marketing' and wrongly understood 'branding'([simple-english](https://github.com/simple-english));
