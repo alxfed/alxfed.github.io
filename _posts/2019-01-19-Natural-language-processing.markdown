@@ -6,8 +6,8 @@ date:   2019-01-19  9:19 am
 categories: blog posts
 ---
 There are several problems in the Natural Language Processing Universe that I would like to explore and, maybe, try to solve or at least contibute to their solution. Namely:
-* The problem of synthesizing a language for automated systems that will be communicating with humans. It's a two-fold problem that consists of two connected parts: inventing a classification of meanings similar to Roget's and developing algorithms that will synthesize the controlled language based on these ideas and a contemporary 'corpus' of texts ([robo-english](https://github.com/robo-english));
-* The overall problem of 'simplification' of English Language in a way that serves the purpose of communications in science and technology better than our present tendency of 'axiomatization' that took over Mathematics and Physics after the first third of the XX-th century and has gone rampant in the age of 'internet marketing' and wrongly understood 'branding'([simple-english](https://github.com/simple-english));
+* The problem of synthesizing a language for automated systems that will use it in their communications with humans. It's a two-fold problem that consists of two connected parts: inventing a classification of meanings similar to Roget's and developing algorithms that will synthesize the controlled language based on these ideas and a contemporary 'corpus' of texts that will exist at the moment of such synthesis ([robo-english](https://github.com/robo-english));
+* The overall problem of 'simplification' of English Language in a way that serves the purpose of communications in science and technology better than our present tendency of 'axiomatization' and creation of 'symbols' that took over Mathematics and Physics after the first third of the XX-th century and has gone absolutely rampant in the age of 'internet marketing' and wrongly understood 'branding'([simple-english](https://github.com/simple-english));
 * My personal studies of 'BASIC-english' of Ogden ([basic-english](https://github.com/basic-english)), 'Thesaurus of English words and __phrases__' of Roget and my attempts to modernize and update their ideas and achievements with the help of contemporary algorithmic and statistical toolset ([english-language](https://github.com/english-language));
 * My personal studies of 'simple' wikipedia and wiktionary, of their achievements in use of synthetically simplified narrative ([simple-english](https://github.com/simple-english)). Maybe some of them can be used in the development of methodology and 'corpus' of texts for robo-english;
 * The materials that I found about the movement for 'Plain English' (an attempt to remove or minimize 'legalese' from everyday communications of humans) are in the [plain-english](https://github.com/plain-english) organization.
@@ -20,6 +20,7 @@ The other organizations are:
 - [in-robo](https://github.com/in-robo);
 - [in-basic-english](https://github.com/in-basic-english);
 - [in-plain-english](https://github.com/in-plain-english);
+- [in-simple-english](https://github.com/in-simple-english);
 - [in-english](https://github.com/in-english); 
 - [universal-english](https://github.com/universal-english));
 - [common-english](https://github.com/common-english);
@@ -30,4 +31,4 @@ The other thematic virtual organizations are:
 - [natural-language-meaning](https://github.com/natural-language-meaning);
 - [natural-english](https://github.com/natural-english).
 <br><br>
-I only squat good names when I know that the bedrock gold is right here, 'Burning Daylight' taught me, when I was a little boy. But I'm not greedy, ping me if you'd like to come _with your own repository_ and participate, I will fork it at your request into one of these virtual organizations.
+I only squat good names when I know that the bedrock gold is right here, 'Burning Daylight' taught me that, when I read a book about his as a little boy. But I'm not greedy, ping me if you'd like to come _with your own repository_ and participate, I will fork it at your request into one of these virtual organizations.
