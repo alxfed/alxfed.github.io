@@ -15,4 +15,4 @@ This picture shows squares of the distance from the 'experimental points' to the
 ![least_squares](/images/LS_grid_plot.png)
 <br>
 The optimized picture is in the middle, the pictures with variations of parameters are around it (different offsets are in different columns, different slopes are in different rows).<br><br>
-More about these pictures and how to draw them and similar ones in R [Illustration for the Least Squares Method repo](https://github.com/alxfed/least-squares-illustration)<br>
+More about these pictures and how to draw them and similar ones in R [Illustration for the Least Squares Method repo](https://github.com/alxfed/least-squares-illustration) .<br>
