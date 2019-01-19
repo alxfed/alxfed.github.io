@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Natural Language Processing and my GitHub organizations"
+title:  "English, Natural Language and my GitHub organizations"
 subtitle: "Why I created all of these virtual organizations on GitHub."
 date:   2019-01-19  9:19 am
 categories: blog posts
