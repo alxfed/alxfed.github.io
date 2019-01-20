@@ -3,8 +3,8 @@ layout: page
 title: CV/Resume
 permalink: /cv/
 ---
-[Download my resume in .pdf](/_docs/Alex_Fedotov_Data_Scientist_2019.pdf)<br>
-[Download my PhD and Education credentials in pdf](/_docs/PhD_and_Education_Certification.pdf)<br><br>
+[Download my resume in .pdf](/docs/Alex_Fedotov_Data_Scientist_2019.pdf)<br>
+[Download my PhD and Education credentials in pdf](/docs/PhD_and_Education_Certification.pdf)<br><br>
 January, 2017 - present
 
 __*Data scientist / Data Analyst / Data engineer/ Data programmer; independent contractor.*__
