@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-{% include lib/mathjax.html %}
+
 I'm a Data Scientist, independent contractor. Ph.D. in Physics and Mathematics.<br>
 I take small to medium data science / data engineering projects. Drop me a line if you want me to participate in yours.<br><br>
+{% include lib/mathjax.html %}
 $$
 M = \left( \begin{array}{ccc}
 x_{11} & x_{12} & \ldots \\
