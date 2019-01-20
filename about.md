@@ -9,9 +9,9 @@ I take small to medium data science / data engineering projects. Drop me a line 
 {% include lib/mathjax.html %}
 
 When $a \ne 0$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are <br><br>
-\begin
+$$
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-\end
+$$
 <br><br>
 \begin{align}
 \sqrt{37} & = \sqrt{\frac{73^2-1}{12^2}} \\
