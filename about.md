@@ -14,3 +14,5 @@ x_{21} & x_{22} & \ldots \\
 \vdots & \vdots & \ldots \\
 \end{array} \right)
 $$
+<br><br>
+[mathjax](https://www.mathjax.org/)
