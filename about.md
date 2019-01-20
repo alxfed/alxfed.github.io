@@ -17,4 +17,5 @@ $$
 \sqrt{37} & = \sqrt{\frac{73^2-1}{12^2}} \\
  & = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\  
 \end{align}
-[mathjax](https://www.mathjax.org/)
+[mathjax](https://www.mathjax.org/)<br>
+[mathjax documents](https://docs.mathjax.org/en/latest/start.html)
