@@ -13,7 +13,7 @@ x_{21} & x_{22} & \ldots \\
 \vdots & \vdots & \ldots \\
 \end{array} \right)$$
 <br><br>
-When $$\(a \ne 0\)$$, there are two solutions to $$\(ax^2 + bx + c = 0\)$$ and they are
+When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are <br><br>
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 <br><br>
 [mathjax](https://www.mathjax.org/)
