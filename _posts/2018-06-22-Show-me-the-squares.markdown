@@ -3,7 +3,7 @@ layout: post
 title:  "Least squares? What squares? Show me the squares!"
 excerpt: "I wish somebody would invent these pictures and show them to me when I was 10 years old, but... As they say: if you want something done - do it yourself."
 date:   2018-06-22 9:13 am
-categories: demo posts R
+categories: blog posts
 ---
 <br><br>
 ![least_squares](/images/LeastSquares3.png){:height="100%" width="100%"}
