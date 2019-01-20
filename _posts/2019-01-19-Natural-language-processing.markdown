@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "English, Natural Language and my GitHub organizations"
-subtitle: "Why I created all of these virtual organizations on GitHub."
+excerpt: "Why I created all of these virtual organizations on GitHub and what are they for. Read it if you bumped into one of them by accident and would like to join it with your ideas."
 date:   2019-01-19  9:19 am
 categories: blog posts
 ---
