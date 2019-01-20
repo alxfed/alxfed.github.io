@@ -11,7 +11,7 @@ $$
 M = \left( \begin{array}{ccc}
 x_{11} & x_{12} & \ldots \\
 x_{21} & x_{22} & \ldots \\
-\vdots & \vdots & \ldots \\
+\vdots & \vdots & \ddots \\
 \end{array} \right)
 $$
 <br><br>
@@ -20,9 +20,6 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 <br><br>
 \begin{align}
 \sqrt{37} & = \sqrt{\frac{73^2-1}{12^2}} \\
- & = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\ 
- & = \sqrt{\frac{73^2}{12^2}}\sqrt{\frac{73^2-1}{73^2}} \\
- & = \frac{73}{12}\sqrt{1 - \frac{1}{73^2}} \\ 
- & \approx \frac{73}{12}\left(1 - \frac{1}{2\cdot73^2}\right)
+ & = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\  
 \end{align}
 [mathjax](https://www.mathjax.org/)
