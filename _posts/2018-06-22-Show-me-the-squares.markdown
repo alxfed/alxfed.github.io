@@ -6,7 +6,6 @@ date: 2018-06-22 9:13 am
 categories: blog posts
 ---
 
-Here are your squares!
 ![least_squares](/images/LeastSquares3.png){:height="100%" width="100%"}
 <br>
 This is an illustration of the "Least Squares" method. These are the "squares" that you've been hearing about all along. Johann Carl Friedrich Gauss proved that it’s enough for most of the things we observe on Earth and in Universe.<br><br>
