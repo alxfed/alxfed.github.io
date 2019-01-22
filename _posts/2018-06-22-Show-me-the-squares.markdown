@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Least squares? What squares? Show me the squares!"
-excerpt: "I wish somebody would invent these pictures and show them to me when I was 10 years old, but... As they say: if you want something done - do it yourself."
+title:  "Squares? What squares? Show me the squares!"
+excerpt:"I wish somebody would invent these pictures and show them to me when I was 10 years old, but... As they say: if you want something done - do it yourself."
 date:   2018-06-22 9:13 am
 categories: blog posts
 ---
-<br><br>
 ![least_squares](/images/LeastSquares3.png){:height="100%" width="100%"}
 <br>
 This is an illustration of the "Least Squares" method. These are the "squares" that you've been hearing about all along. Johann Carl Friedrich Gauss proved that it’s enough for most of the things we observe on Earth and in Universe.<br><br>
