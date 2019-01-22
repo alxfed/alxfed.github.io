@@ -5,6 +5,7 @@ excerpt: "I wish somebody would invent these pictures and show them to me when I
 date: 2018-06-22 9:13 am
 categories: blog posts
 ---
+
 Here are your squares!
 ![least_squares](/images/LeastSquares3.png){:height="100%" width="100%"}
 <br>
