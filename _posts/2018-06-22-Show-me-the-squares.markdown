@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Squares? What squares? Show me the squares!"
-excerpt:"I wish somebody would invent these pictures and show them to me when I was 10 years old, but... As they say: if you want something done - do it yourself."
+excerpt: "I wish somebody would invent these pictures and show them to me when I was 10 years old, but... As they say: if you want something done - do it yourself."
 date:   2018-06-22 9:13 am
 categories: blog posts
 ---
