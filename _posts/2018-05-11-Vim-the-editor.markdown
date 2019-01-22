@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vim - the editor for the people who think before doing."
-excerpt: "Or: your adult life begins when you permanently remap CapsLock to Esc and live happily ever after."
+excerpt: "Or: your adult life begins when you permanently remap CapsLock to Esc and live happily ever after. And I will tell you how to do that on Ubuntu too."
 date:   2018-05-11  9:00 am
 categories: blog posts
 ---
