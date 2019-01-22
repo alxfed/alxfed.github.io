@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It's time for me to test Pytorch 1.0 myself."
+title:  "It's time for me to test Pytorch 1. myself."
 excerpt:"Almost two months have passed since the official release of PyTorch 1.0, it is time to systematically test it."
 date:   2019-01-22 8:43 am
 categories: blog posts
