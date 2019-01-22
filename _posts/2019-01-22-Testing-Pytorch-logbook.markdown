@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "It's been a while. Time to test PyTorch 1.0 myself."
-excerpt: "Almost two months have passed since the official release of PyTorch 1.0, it is time to systematically test it."
-date:   2019-01-19  9:32 am
+excerpt: "Almost two months have passed since the official release of PyTorch 1.0; I think they've fixed most of the 'release bugs' which means that it is time to systematically test it."
+date:   2019-01-22  9:32 am
 categories: blog posts
 ---
 Almost two months have passed since the official release of PyTorch 1.0... at their 'convention' I believe, it is time to do a systematic hands on test of what it does, then try the usual standarts and, maybe, something more fun as the last part of this run.
@@ -11,6 +11,8 @@ The project will be on @work-with-data organization, I will fork it to alxfed, t
 The lab journal of the project will be in this post on my github blog.<br><br>
 - 9:00 am created https://github.com/work-with-data/time-to-test-pytorch1 , added .idea to .gitignore;
 - 9:05 am forked it to https://github.com/alxfed/time-to-test-pytorch1 ;
+- 11:30 posted some code of a standard iris test, because it works;
+- 12:10 made a pull request, approved the merge in @work-with-data.
 <br><br>
 ...to be continued.
 
