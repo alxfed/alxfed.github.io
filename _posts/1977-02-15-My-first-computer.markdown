@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The day I met my first computer."
-excerpt: "Maugli goes to the Plasma Physics lab of Lebedev Physical Institute of the Academy of Sciences of the USSR and meets a computer brought there by the wind."
+excerpt: "Maugli goes to the Plasma Physics Lab of Lebedev Physical Institute of the Academy of Sciences of the USSR and meets a computer brought there from another planet by the wind."
 date:   1977-02-15  9:19 am
 categories: blog posts
 ---
