@@ -17,7 +17,7 @@ title: Alex Fedotov
 email: alxfed <at> gmail <dot> com
 description: >- # this means to ignore newlines until "baseurl:"
   My CV: I started programming (on PDP-8 in assembler) when I was a student
-  of experimental physics, in 1978, and on and on it went, but it was always
+  of experimental physics, in 1977, and on and on it went, but it was always
   about experimental data and what you do with it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alxfed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
