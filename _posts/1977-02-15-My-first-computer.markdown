@@ -16,5 +16,5 @@ categories: blog posts
  &nbsp;&nbsp;&nbsp;&nbsp; And of course the 'socialist cooperation' brought 3 or 4 of these computers on the main physical institute, I would call it a 'flagman' of the Soviet Science... ha-ha-ha! Right then around that very same time Physics in that country fell into a coma and stayed in this persistent vegitative state until its death in the early nineties, but nobody told me then and it took me decades to find out what happened.
 <br><br>
 ![TPAi-2](/images/TPAi_2.png){:height="100%" width="100%"}<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp; But I got a computer then! I played with it. I read the DEC books about it, I read the Donald Knuth's books, I created my own programs... It was a fun. :)
+&nbsp;&nbsp;&nbsp;&nbsp; But I got a computer then! I played with it. I read the DEC books about it, I read the Donald Knuth's books, I created my own programs... It was fun. :)
 
