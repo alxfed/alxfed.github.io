@@ -11,8 +11,8 @@ categories: blog posts
 ### Moving through texts
 &nbsp;&nbsp;&nbsp;&nbsp;Only the people who really write texts themself know what ~ problem a _single_ screen is. When you write on paper - you have pages, you probably have a pile or several piles of drafts around you, maybe you have a notebook or a notepad... you have multiple parts of your composition that you can look at _simultaneously_ (at least from the corner of your eye). Of course this in not true with screens that are only a small part of your field of vision, and it's even worse with a single screen that is just that - a _single_ screen. At some point in time long ago I realised how much of my precious time is being spent on this idiotic routine of opening and closing files, scrolling through texts and, most importantly, on what I would call 'aiming' at some particular single point on the screen where you need to place your cursor in order to start making corrections. Let me remind you that this precious time is gone forever and it's a big question whether you will be able to achieve the proverbial 'economy of scale' later by doing everything digitally and on the screen from the very beginning.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;To the point. Here are the important things that I learned about Vim/Neovim. <br>
-## Navigation in file and on screens.
-**gg** - beginning of the file;  **G** - last line of the file.
+### Navigation in file and on screens.
+**gg** - beginning of the file;  **G** - last line of the file.<br><br>
 ### Scrolling
 **Ctrl-f** - **f**orward full screen; **Ctrl-b** - **b**ackward full screen.<br><br>
 **Ctrl-d** - **d**own half screen; **Ctrl-u** - **u**p half screen.<br><br>
