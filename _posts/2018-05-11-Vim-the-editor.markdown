@@ -17,7 +17,7 @@ categories: blog posts
 **Ctrl-f** - **f**orward full screen; **Ctrl-b** - **b**ackward full screen.<br><br>
 **Ctrl-d** - **d**own half screen; **Ctrl-u** - **u**p half screen.<br><br>
 ### Shift content inside the window together with the cursor
-**zt** = **z<CR>** - so that the cursor would be at the **t**op;<br><br>
+**zt** = **z + CR** - so that the cursor would be at the **t**op;<br><br>
 **zb** = **z-** - so that the cursor would be at the **b**ottom;<br><br>
 **zz** = **z.** - so that the cursor would be in the **middle**.<br><br>
 ### Shift the cursor only, keep content as it is
