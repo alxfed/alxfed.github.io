@@ -14,5 +14,9 @@ The lab journal of the project will be in this post on my github blog.<br><br>
 - 11:30 posted some code of a standard iris test, because it works;
 - 12:10 made a pull request, approved the merge in @work-with-data.
 <br><br>
+Sunday, January 27,
+- 8:30 pm found the iris dataset on Kaggle, modified the code slightly, uploaded it to a kernel. 
+- 9:22 pm the kernell runned fine (5+ sec execution time), make it public there.
+
 ...to be continued.
 
