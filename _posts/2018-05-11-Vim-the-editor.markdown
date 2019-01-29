@@ -31,8 +31,21 @@ categories: blog posts
 **L** - move the cursor to the **l**owest line in the window;<br><br>
 **M** - move the cursor to the **m**iddle line in the window.<br><br>
 ## Windows
+The most important command for windows is a **Ctrl-w** movement of your left hand, you type another letter after doing it and you get a window action.<br><br>
+#### Maximizing - minimizing
 **Ctrl-w + _** - maximize the hight of the current window;<br><br>
 **Ctrl-w + |** - maximize the width of the current window;<br><br>
 **Ctrl-w + =** - make all the windows the same size.<br><br>
+Jumping between windows is done with the ordinary **h, j, k, l** preceded with **Ctrl-w**<br><br>
+**Ctrl-w + <h, j, k, l>** - move to the window: on the left, below, above, on the right.<br>
+#### Creation of new windows
+Besides that you only need to open a new window with another file in it by splitting the window horisontally:<br><br>
+**:new <filename.txt>** - open the filename.txt in a window split horisontally;<br><br>
+**:vert new <filename.txt>** - open the filename.txt in a window split vertically.<br><br>
+#### Closing of a window
+A separate important way to think about all the realities inside Vim - the quit command, which closes the current window if there are several of them.<br><br>
+**:q** - just quit;
+**:q!** - quit without saving whatever changes you have made (probably by accident);
+**:wq** - write the changes made in the current window into the file, then quit.
 
 
