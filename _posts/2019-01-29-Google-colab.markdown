@@ -11,5 +11,5 @@ categories: blog posts
 &nbsp;&nbsp;&nbsp;&nbsp;The first experiment is the notebook that they offer for testing the TPU. Is it worth the effort necessary to study their toy? Here's the result: [the TPU colab notebook that I saved from there to my repository](https://github.com/alxfed/colab/blob/master/Hello%2C_TPU_in_Colab.ipynb), and... Can you see the number? `TFlops: 165.54` Wow! Just wow!<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Let me remind you something: the first generation of supercomputers, which pretty much ended with Cray-2 reached the amazing result of 1.9 GFlops peak performance. And those were pretty unique super-embargo-we-will-not-give-it-to-anybody room-sized moster computers. And here, I was just browsing and bumped into this thing because somebody in a chat mentioned it... And it is free...Just think about it:<br><br>
 **A HUNDRED THOUSAND Cray-2s!**<br><br>
-That was impreassive, Google!<br><br>
+That was impressive, Google!<br><br>
 Later.
