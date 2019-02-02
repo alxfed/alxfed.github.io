@@ -6,4 +6,5 @@ date:   2019-01-28  9:05 am
 categories: blog posts
 ---
 So far I forked the repository into the [meta-language](https://github.com/meta-language) virtual organization and will be working on it there.<br><br>
+&nbsp;&nbsp;&nbsp;Of course it belongs there because of what I wrote in the terminological post about Meta-language. The thing is a representation of meaning in __*all*__ the languages that it is trained for.<br><br>
 Later.
