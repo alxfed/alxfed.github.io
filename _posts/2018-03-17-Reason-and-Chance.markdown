@@ -20,3 +20,7 @@ I will mark the words with a superscript like this: chance<sup>2</sup>, reason<s
 &nbsp;&nbsp;&nbsp;&nbsp;There was no doubt...<br><br>
 
 Later. 
+
+##### Reading:
+
+1. Wesley C. Salmon, "Four decades of scientific explanation", 1989
