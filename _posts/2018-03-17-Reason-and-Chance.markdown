@@ -13,7 +13,14 @@ __reason__ -
 
 __chance__ - 
 1. the occurrence and development of events in the absence of any obvious design.
-2. a possibility of something happening.<br><br>
+2. a possibility of something happening.<br>
+
+__variable__ - 
+1. an element, feature, or factor that is liable to vary or change.
+2. (mathematics) a quantity which during a calculation is assumed to vary or
+be capable of varying in value.
+3. experimental variable - (statistics) a variable whose values are
+independent of changes in the values of other variables.<br><br>
 
 I will mark the words with a superscript like this: chance<sup>2</sup>, reason<sup>1</sup> when there can be a confusion as to what meaning of the word I'm using in a sentence.<br>
 
@@ -24,3 +31,6 @@ Later.
 ##### Reading:
 
 1. Wesley C. Salmon, "Four decades of scientific explanation", 1989
+2. Rudolf Carnap, "The Logical Structure of the World and Pseudoproblems in
+Philosophy", 1967.
+3. 
