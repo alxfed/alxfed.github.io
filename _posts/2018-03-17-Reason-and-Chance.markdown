@@ -15,7 +15,7 @@ __chance__ -
 1. the occurrence and development of events in the absence of any obvious design.
 2. a possibility of something happening.<br><br>
 
-I will mark the words with a superscript like this: chance<sup>2</sup>, reason<sup>1</sup>.<br>
+I will mark the words with a superscript like this: chance<sup>2</sup>, reason<sup>1</sup> when there can be a confusion as to what meaning of the word I'm using in a sentence.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;There was no doubt...<br><br>
 
