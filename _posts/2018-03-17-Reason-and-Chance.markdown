@@ -17,7 +17,7 @@ __chance__ -
 
 I will mark the words with a superscript like this: chance<sup>2</sup>, reason<sup>1</sup> when there can be a confusion as to what meaning of the word I'm using in a sentence.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;There was no doubt...<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;There was no doubt a lack of interest in studying the relationship between explainable and random aspects of reality surrounding us.<br><br>
 
 Later. 
 
