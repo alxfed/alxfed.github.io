@@ -6,7 +6,7 @@ date:   2014-05-1  10:00 am
 categories: blog posts
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;Before we begin let me give you the meanings of these words that I'm using in this particular piece:<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Before we begin let me give you a short list of the meanings of the two most important words that I'm using in this particular piece:<br><br>
 __reason__ - 
 1. a cause, explanation, or justification for an action or event.
 2. the power of the mind to think, understand, and form judgments by a process of logic.<br>
