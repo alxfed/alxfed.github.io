@@ -20,11 +20,14 @@ __variable__ -
 2. (mathematics) a quantity which during a calculation is assumed to vary or
 be capable of varying in value.
 3. experimental variable - (statistics) a variable whose values are
-independent of changes in the values of other variables.<br><br>
+independent of changes in the values of other variables.<br>
+
+__experiment__ -
+1. A test under controlled conditions that is made to demonstrate a known truth, to examine the validity of a hypothesis, or to determine the efficacy of something previously untried.<br>
 
 I will mark the words with a superscript like this: chance<sup>2</sup>, reason<sup>1</sup> when there can be a confusion as to what meaning of the word I'm using in a sentence.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;There was no doubt a lack of interest in studying the relationship between explainable and random aspects of reality surrounding us.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;There was no lack of interest in studying the relationship between explainable/causal and random aspects of reality surrounding us. Pretty much every philosopher of the past worth his salt had an opinion on this subject. Maybe that is why the relatively simple meaning of this duality is still so blurred and uncertain for many.<br><br>
 
 Later. 
 
