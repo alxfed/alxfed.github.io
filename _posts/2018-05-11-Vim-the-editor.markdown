@@ -64,9 +64,9 @@ These can be used with the **p**ut and **P**ut commands only.<br>
 **"%** - the name of the current file;<br><br>
 **"#** - bla-bla 'alternate file' and it is writable; //not for humans <br>
 #### Expression
-**"=** - ;
+**"=** - is a way to use an expression in commands which use a register;
 #### Selection and drop
-__"*__ - in selection;<br>
+__"*__ - in selection (in the system);<br>
 **"+** - dropped to (system) clipboard;<br>
 **"~** - ;
 #### Search pattern
