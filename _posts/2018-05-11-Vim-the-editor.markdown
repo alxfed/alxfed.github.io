@@ -47,5 +47,33 @@ A separate important way to think about all the realities inside Vim - the quit 
 **:q** - just quit;
 **:q!** - quit without saving whatever changes you have made (probably by accident);
 **:wq** - write the changes made in the current window into the file, then quit.
+### Registers
+Registers are one of the biggest achievements of Vim even if not so many people understand that they can joggle their contence with the help of **:let @a=@b** assignments between the registers, the system clipboard **"+** and the text selected in the operating system which is accessible in __"*__.
+#### Numbered
+From **"0** to **"9**; Vim fills these registers with text from yank and delete commands.<br>
+**"0** - the most recent yank command...<br>
+**"1** - the most recent delete or change command...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...unless another register was specified
+#### Named
+From **"a** to **"z**
+#### Read-only
+**":** - ;
+**".** - ;
+**"%** - ;
+**"#** - ;
+#### Expression
+**"=** - ;
+#### Selection and drop
+__"*__ - in selection;
+**"+** - dropped to (system) clipboard;
+**"~** - ;
+#### Search pattern
+**"/** - ;
+#### Small delete
+**"-** - the 'small delete' register;
+#### Programmer perversions
+**""** - text deleted with the "d", "c", "s", "x" commands;
+**"_** - 'black hole' register;
+
 
 
