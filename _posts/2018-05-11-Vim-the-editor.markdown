@@ -44,8 +44,8 @@ Besides that you only need to open a new window with another file in it by split
 **:vert new <filename.txt>** - open the filename.txt in a window split vertically.<br><br>
 #### Closing of a window
 A separate important way to think about all the realities inside Vim - the quit command, which closes the current window if there are several of them.<br><br>
-**:q** - just quit;
-**:q!** - quit without saving whatever changes you have made (probably by accident);
+**:q** - just quit;<br>
+**:q!** - quit without saving whatever changes you have made (probably by accident);<br>
 **:wq** - write the changes made in the current window into the file, then quit.
 ### Registers
 Registers are one of the biggest achievements of Vim even if not so many people understand that they can joggle their contence with the help of **:let @a=@b** assignments between the registers, the system clipboard **"+** and the text selected in the operating system which is accessible in __"*__.
@@ -53,26 +53,28 @@ Registers are one of the biggest achievements of Vim even if not so many people 
 From **"0** to **"9**; Vim fills these registers with text from yank and delete commands.<br>
 **"0** - the most recent yank command...<br>
 **"1** - the most recent delete or change command...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...unless another register was specified
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...unless another register was specified.<br>
+With each successive deletion 1 is moved down the stack to 2 etc.etc., 9 is purged (and lost).
 #### Named
 From **"a** to **"z**
 #### Read-only
-**":** - ;
-**".** - ;
-**"%** - ;
-**"#** - ;
+These can be used with the **p**ut and **P**ut commands only.<br>
+**":** - the most recent executed command-line;<br>
+**".** - the last inserted text;<br>
+**"%** - the name of the current file;<br><br>
+**"#** - bla-bla 'alternate file' and it is writable; //not for humans <br>
 #### Expression
 **"=** - ;
 #### Selection and drop
-__"*__ - in selection;
-**"+** - dropped to (system) clipboard;
+__"*__ - in selection;<br>
+**"+** - dropped to (system) clipboard;<br>
 **"~** - ;
 #### Search pattern
 **"/** - ;
 #### Small delete
-**"-** - the 'small delete' register;
+**"-** - the 'small delete' register; the delete goes here if it is less than one line.
 #### Programmer perversions
-**""** - text deleted with the "d", "c", "s", "x" commands;
+**""** - text deleted with the "d", "c", "s", "x" commands;<br>
 **"_** - 'black hole' register;
 
 
