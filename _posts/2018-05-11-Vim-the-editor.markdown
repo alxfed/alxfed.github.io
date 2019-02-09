@@ -68,7 +68,7 @@ These can be used with the **p**ut and **P**ut commands only.<br>
 #### Selection and drop
 __"*__ - in selection (in the system);<br>
 **"+** - dropped to (system) clipboard;<br>
-**"~** - ;
+**"~** - read-only, the result o last drag-n-drop;
 #### Search pattern
 **"/** - ;
 #### Small delete
