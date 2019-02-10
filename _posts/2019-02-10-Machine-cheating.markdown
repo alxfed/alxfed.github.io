@@ -29,7 +29,7 @@ categories: blog posts
 * **problem** - the singled out set of circumstances that can be discussed separately (from the complete context of the Universe :) );
 * **understanding of the problem** - the ability to mentally grasp all the important aspects of the problem and express/communicate the meaning of these aspects in one or several different ways;
 * **deliberation** - the logical argument about the ideas related to the problem or any of its parts;
-* **solution** - the logical conclusion of the deliberations about the problem.
+* **solution** - the logical conclusion of the deliberations about the problem and the complete chain of thought leading from the given conditions to it.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Basically, what we should be doing is: to enourage the meta-learning, the learning of the methods of aquisition of principles... and these three "of" in a row in this phrase symbolise just that - the "meta" level of the task.<br><br>
 
