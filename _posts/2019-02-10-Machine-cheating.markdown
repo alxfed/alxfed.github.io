@@ -82,6 +82,7 @@ categories: blog posts
 • Can you use the result, or the method, for some other problem?
 </pre>
 &nbsp;&nbsp;&nbsp;&nbsp;As you can see the description of these steps of the process of solving a problem require a whole bunch of other meta-language words. I will write about them a little bit later.
+&nbsp;&nbsp;&nbsp;&nbsp;In any case, what I'm saying is: let's devise a meta-language for description of the techniques of 'deliberations' as in this concise Polya instruction and keep describing all the known cases of such deliberations until we find out how it can be and should be done. Otherwise we are screwed.
 <br><br>
 
 I created a couple of virtual organizations for this topic... as always :)... in https://github.com/machine-teaching and https://github.com/teaching-machine-to-learn.<br><br>
