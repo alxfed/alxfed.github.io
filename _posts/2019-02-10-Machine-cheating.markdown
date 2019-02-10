@@ -5,7 +5,7 @@ excerpt: "What exactly are these machines 'learning' when we are 'teaching' them
 date:   2019-02-10  8:19 am
 categories: blog posts
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;Somehow, as always, nobody seems to ask the right question, namely: "What are we __*teaching*__ our machines when they are 'machine-learning'? What type of behavior we are encouraging or discouraging? How does it allign with our overall goals and particular (and momentary) expectations? Let's look into it in a little bit of a detail.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Somehow, as always, nobody seems to ask the right question, namely: "What are we __*teaching*__ our machines when they are 'machine-learning'"? What type of behavior are we encouraging or discouraging? How does it allign with our overall goals and particular (and momentary) expectations? Let's look into it in a little bit of a detail.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Let's watch the hands of the prestidigitator closely, maybe we will be able to notice where the rabbit comes from if we watch it in slow motion:
 - Step 1: We show an object to our 'machine-pupil' (the stupid britanism 'pupil' with it's second purely physiological meaning fits beautifully here);
