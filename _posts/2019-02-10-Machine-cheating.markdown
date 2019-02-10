@@ -27,7 +27,7 @@ categories: blog posts
 &nbsp;&nbsp;&nbsp;&nbsp;Enough of this critique of impure unreasonableness! Let's talk about the constructive program and where it should start and how it will begin, now.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;If you noticed all the memories of the learning process that we were talking about reside at a 'meta' level, we are not talking about particular problems we are talking about the problems in general and we are using a meta-language that has the following words:
 * **problem** - the singled out set of circumstances that can be discussed separately (from the context of the Universe :) );
-* **understanding of the problem** - the ability to mentally grasp all the important aspects of the problem and express the meaning of these aspects in one or several different ways;
+* **understanding of the problem** - the ability to mentally grasp all the important aspects of the problem and express/communicate the meaning of these aspects in one or several different ways;
 * **deliberation** - the logical argument about the ideas related to the problem or any of its parts;
 * **solution** - the logical conclusion of the deliberations about the problem.
 
