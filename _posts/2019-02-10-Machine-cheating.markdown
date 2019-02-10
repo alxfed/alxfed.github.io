@@ -33,7 +33,51 @@ categories: blog posts
 
 &nbsp;&nbsp;&nbsp;&nbsp;As you can see these words are not for the discussion about the problem itself, they are for discussion about the *process* of dealing with the problem in general. Also, notice that these words describe the 'outside boundary' of the process, - the 'interface' with other events, but not the inner work of reason that is being done while the problem is being solved. Maybe that is the missing key for the next door in our labyrinth.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Basically, what we should be doing for our machines is: enourage the meta-learning, the learning of the methods of aquisition of principles (or 'generalizations' if you like this word more)... and these three "of" in a row in this phrase which I put there intentionally symbolise just that - the "meta" level of the task. And it is not that far from what the great teacher of the past - Polya suggested as 'heuristics' of solving mathematical problems.<br>
-
+<pre>
+1. UNDERSTAND THE PROBLEM
+• First. You have to understand the problem.
+• What is the unknown? What are the data? What is the condition?
+• Is it possible to satisfy the condition? Is the condition sufficient to deter-
+mine the unknown? Or is it insufficient? Or redundant? Or contradictory?
+• Draw a figure. Introduce suitable notation.
+• Separate the various parts of the condition. Can you write them down?
+2. DEVISING A PLAN
+• Second. Find the connection between the data and the unknown. You
+may be obliged to consider auxiliary problems if an immediate connection
+cannot be found. You should obtain eventually a plan of the solution.
+• Have you seen it before? Or have you seen the same problem in a slightly
+different form?
+• Do you know a related problem? Do you know a theorem that could be
+useful?
+• Look at the unknown! Try to think of a familiar problem having the same
+or a similar unknown.
+• Here is a problem related to yours and solved before. Could you use it?
+Could you use its result? Could you use its method? Should you introduce
+some auxiliary element in order to make its use possible?
+• Could you restate the problem? Could you restate it still differently? Go
+back to definitions.
+• If you cannot solve the proposed problem, try to solve first some related
+problem. Could you imagine a more accessible related problem? A more
+general problem? A more special problem? An analogous problem? Could
+you solve a part of the problem? Keep only a part of the condition, drop
+the other part; how far is the unknown then determined, how can it vary?
+Could you derive something useful from the data? Could you think of
+other data appropriate to determine the unknown? Could you change the
+unknown or data, or both if necessary, so that the new unknown and the
+new data are nearer to each other?
+• Did you use all the data? Did you use the whole condition? Have you
+taken into account all essential notions involved in the problem?
+33. CARRYING OUT THE PLAN
+• Third. Carry out your plan.
+• Carrying out your plan of the solution, check each step. Can you see clearly
+that the step is correct? Can you prove that it is correct?
+4. LOOKING BACK
+• Fourth. Examine the solution obtained.
+• Can you check the result? Can you check the argument?
+• Can you derive the solution differently? Can you see it at a glance?
+• Can you use the result, or the method, for some other problem?
+</pre>
+&nbsp;&nbsp;&nbsp;&nbsp;As you can see the description of these steps of the process of solving a problem require a whole bunch of other meta-language words. I will write about them a little bit later.
 <br><br>
 
 I created a couple of virtual organizations for this topic... as always :)... in https://github.com/machine-teaching and https://github.com/teaching-machine-to-learn.<br><br>
