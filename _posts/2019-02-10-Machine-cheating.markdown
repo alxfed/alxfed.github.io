@@ -32,7 +32,7 @@ categories: blog posts
 * **solution** - the logical conclusion of the deliberations about the problem and the complete chain of thought leading from the given conditions to it.
 
 &nbsp;&nbsp;&nbsp;&nbsp;As you can see these words are not for the discussion about the problem itself, they are for discussion about the *process* of dealing with the problem in general. Also, notice that these words describe the 'outside boundary' of the process, - the 'interface' with other events, but not the inner work of reason that is being done while the problem is being solved. Maybe that is the missing key for the next door in our labyrinth.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Basically, what we should be doing for our machines is: enourage the meta-learning, the learning of the methods of aquisition of principles (or 'generalizations' if you like this word more)... and these three "of" in a row in this phrase symbolise just that - the "meta" level of the task. And it is not that far from what the great teacher of the past - Polya suggested and 'heuristics' of solving mathematical problems.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Basically, what we should be doing for our machines is: enourage the meta-learning, the learning of the methods of aquisition of principles (or 'generalizations' if you like this word more)... and these three "of" in a row in this phrase which I put there intentionally symbolise just that - the "meta" level of the task. And it is not that far from what the great teacher of the past - Polya suggested as 'heuristics' of solving mathematical problems.<br>
 
 <br><br>
 
