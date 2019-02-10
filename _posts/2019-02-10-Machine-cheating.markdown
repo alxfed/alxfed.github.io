@@ -23,12 +23,12 @@ categories: blog posts
 **What do we force our machines to do?** - We deceive them by not showing them the _real_ (complete) data, we 'massage' the data until the 'fitting' gives a desired result by excluding and including (called 'bootstrping', invented by Wald) data points and calling the point that has been excluded an 'outlier'. No, this point is _not_ an 'outlier', _you_ are a liar! So, basically we force our machines to process an incomplete or outright wrong data, we lie to them about the World. Well, most of my teachers did that (intentionally) too, but nonetheless.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;What a mess, people! You do this and expect some kind of a 'generalization'? Really? The whole 'Machine-Learning' thing is teaching our machines how to 'Machine-Cheat' not how to generalize. 
 &nbsp;&nbsp;&nbsp;&nbsp;Why is this happening? Because we tend to **shift** the tasks that we are _prohibited_ from doing _ourself_: cheating, 'massaging the data' in any and every inappropriate way, drawing unjustifiably wrong graphs, even race-gender-or-anything-else discriminating in cases when it is legally prohibited... and all this goes to our machines and they will be 'to blame'. Nice. I can understand why, I perfectly understand _all_ the 'incentives' and 'motivations', but this is just not right. This will not work like this for long, believe me. Sooner or later the lies and the liars will be exposed, kicked out and punished with oblivion.<br>
-#### What should be done now?
+### What should be done now?
 &nbsp;&nbsp;&nbsp;&nbsp;Enough of this critique of impure unreasonableness! Let's talk about the constructive program and where it should start and how it will begin, now.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;If you noticed all the memories of the learning process that we were talking about reside at a 'meta' level, we are not talking about particular problems we are talking about the problems in general and we are using a meta-language that has the following words:
 * **problem** - the singled out set of circumstances that can be discussed separately (from the context of the Universe :) );
 * **understanding of the problem** - the ability to mentally grasp all the important aspects of the problem and express the meaning of these aspects in one or several different ways;
-* **deliberation** - the ability to logically argument the ideas related to the problem or any of its parts;
+* **deliberation** - the logical argument about the ideas related to the problem or any of its parts;
 * **solution** - the logical conclusion of the deliberations about the problem.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Basically, what we should be doing is: to enourage the meta-learning, the learning of the methods of aquisition of principles... and these three "of" in a row in this phrase symbolise just that - the "meta" level of the task.<br><br>
