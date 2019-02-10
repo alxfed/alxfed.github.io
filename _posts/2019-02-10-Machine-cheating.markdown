@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teaching Machine-Learning how to Machine-cheat."
+title:"Teaching Machine-Learning how to Machine-cheat."
 excerpt:"What exactly are these machines 'learning' when we are 'teaching' them? What type of machine-behavior of machines and humans servicing them are our 'teaching' methods encouraging?"
 date:   2019-02-10  8:19 am
 categories: blog posts
