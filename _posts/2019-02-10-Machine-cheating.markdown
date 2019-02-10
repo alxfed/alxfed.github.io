@@ -67,7 +67,7 @@ unknown or data, or both if necessary, so that the new unknown and the
 new data are nearer to each other?
 • Did you use all the data? Did you use the whole condition? Have you
 taken into account all essential notions involved in the problem?
-33. CARRYING OUT THE PLAN
+3. CARRYING OUT THE PLAN
 • Third. Carry out your plan.
 • Carrying out your plan of the solution, check each step. Can you see clearly
 that the step is correct? Can you prove that it is correct?
