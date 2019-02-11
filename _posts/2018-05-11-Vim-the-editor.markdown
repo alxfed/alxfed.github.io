@@ -18,7 +18,7 @@ categories: blog posts
 &nbsp;&nbsp;&nbsp;&nbsp;I've already used twice the metaphor that I'm using to think about it - the surgic procedure with the help of a cursor/'scalpel'.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;To the point. Here are the important things that I learned about Vim/Neovim. <br>
 ### Navigation in file and on screens.
-Once you've opened a file you can instantly move to the end of it and back.<br>
+Once you've opened a file you can instantly move to the end of it and back.<br><br>
 **gg** - beginning of the file;  **G** - last line of the file.<br><br>
 ### Moving the frame through which you see the text.
 **Ctrl-f** - **f**orward full screen; **Ctrl-b** - **b**ackward full screen.<br><br>
