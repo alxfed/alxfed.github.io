@@ -19,7 +19,7 @@ categories: blog posts
 &nbsp;&nbsp;&nbsp;&nbsp;To the point. Here are the important things that I learned about Vim/Neovim. <br>
 ### Navigation in file and on screens.
 **gg** - beginning of the file;  **G** - last line of the file.<br><br>
-### Scrolling
+### Moving the lense through which you see text (Scrolling)
 **Ctrl-f** - **f**orward full screen; **Ctrl-b** - **b**ackward full screen.<br><br>
 **Ctrl-d** - **d**own half screen; **Ctrl-u** - **u**p half screen.<br><br>
 ### Shift content inside the window together with the cursor
