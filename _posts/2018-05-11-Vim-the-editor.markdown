@@ -20,38 +20,38 @@ categories: blog posts
 ### Navigation in file and on screens.
 Once you've opened a file you can instantly move to the end of it and back.
 **gg** - beginning of the file;  **G** - last line of the file.<br><br>
-### Moving the frame through which you see the text
+### Moving the frame through which you see the text.
 **Ctrl-f** - **f**orward full screen; **Ctrl-b** - **b**ackward full screen.<br><br>
 **Ctrl-d** - **d**own half screen; **Ctrl-u** - **u**p half screen.<br><br>
-### Shift content inside the window together with the cursor
+### Shift content inside the window together with the cursor.
 **zt** = **z + CR** - so that the cursor would be at the **t**op;<br><br>
 **zb** = **z-** - so that the cursor would be at the **b**ottom;<br><br>
 **zz** = **z.** - so that the cursor would be in the **middle**.<br><br>
-### Shift the cursor only, keep the content as it is
+### Shift the cursor only, keep the content as it is.
 **H** - move the cursor to the **h**ighest line in the window;<br><br>
 **L** - move the cursor to the **l**owest line in the window;<br><br>
 **M** - move the cursor to the **m**iddle line in the window.<br><br>
-## Windows
+## Windows.
 The most important command for windows is a **Ctrl-w** movement of your left hand, you type another letter after doing it and you get a window action.<br><br>
-#### Maximizing - minimizing
+#### Maximizing - minimizing.
 **Ctrl-w + _** - maximize the hight of the current window;<br><br>
 **Ctrl-w + |** - maximize the width of the current window;<br><br>
 **Ctrl-w + =** - make all the windows the same size.<br><br>
 Jumping between windows is done with the ordinary **h, j, k, l** preceded with **Ctrl-w**<br><br>
 **Ctrl-w + <h, j, k, l>** - move to the window: on the left, below, above, on the right.<br>
-#### Creation of new windows
+#### Creation of new windows.
 Besides that you only need to open a new window with another file in it by splitting the window horisontally:<br><br>
 **:new** _filename.txt_ - open the filename.txt in a window split horisontally;<br><br>
 **:vert new** _filename.txt_ - open the filename.txt in a window split vertically.<br><br>
-#### Closing of a window
+#### Closing of a window.
 A separate important way to think about all the realities inside Vim - the quit command, which closes the current window if there are several of them.<br><br>
 **:q** - just quit;<br>
 **:q!** - quit without saving whatever changes you have made (probably by accident);<br>
 **:wq** - write the changes made in the current window into the file, then quit.
-## Registers
+## Registers.
 Registers are one of the biggest achievements of Vim even if not so many people understand that they can joggle their contence with the help of **:let @a=@b** assignments between the registers, the system clipboard **"+** and the text selected in the operating system which is accessible in __"*__.
 #### Numbered
-From **"0** to **"9**; Vim fills these registers with text from yank and delete commands.<br>
+From **"0** to **"9**; Vim fills this stack of registers with text from yank and delete commands and pops up the contence when the **u**ndo command is issued.<br>
 **"0** - the most recent yank command...<br>
 **"1** - the most recent delete or change command...<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...unless another register was specified.<br>
