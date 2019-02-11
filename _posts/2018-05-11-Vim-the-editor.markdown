@@ -40,8 +40,8 @@ Jumping between windows is done with the ordinary **h, j, k, l** preceded with *
 **Ctrl-w + <h, j, k, l>** - move to the window: on the left, below, above, on the right.<br>
 #### Creation of new windows
 Besides that you only need to open a new window with another file in it by splitting the window horisontally:<br><br>
-**:new <filename.txt>** - open the filename.txt in a window split horisontally;<br><br>
-**:vert new <filename.txt>** - open the filename.txt in a window split vertically.<br><br>
+__:new <filename.txt>__ - open the filename.txt in a window split horisontally;<br><br>
+__:vert new <filename.txt>__ - open the filename.txt in a window split vertically.<br><br>
 #### Closing of a window
 A separate important way to think about all the realities inside Vim - the quit command, which closes the current window if there are several of them.<br><br>
 **:q** - just quit;<br>
