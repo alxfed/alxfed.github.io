@@ -126,9 +126,11 @@ problems.
  
 How To Solve It, by George Polya, 2nd ed., Princeton University Press, 1957
 </pre>
-I will write about these principles a little bit later.
+I will write about these principles a little bit later.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;In any case, what I'm saying is: let's devise a meta-language for description of the techniques of 'deliberations' as in this concise Polya instruction and keep describing all the known cases of such deliberations until we find out how it can be and should be done. Otherwise we are screwed.
 <br><br>
 
-I created a couple of virtual organizations for this topic... as always :)... [machine-teaching](https://github.com/machine-teaching) and [teaching-machine-to-learn](https://github.com/teaching-machine-to-learn).<br><br>
+I created a couple of virtual organizations for this topic... as always :)...<br> 
+[machine-teaching](https://github.com/machine-teaching) and <br>
+[teaching-machine-to-learn](https://github.com/teaching-machine-to-learn).<br><br>
 Later.
