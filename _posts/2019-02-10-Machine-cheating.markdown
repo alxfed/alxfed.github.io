@@ -95,7 +95,7 @@ Second Principle: Devise a plan
 Polya mentions that there are many reasonable ways to solve problems.
 The skill at choosing an appropriate strategy is best learned by
 solving many problems. You will find choosing a strategy increasingly easy.
-A partial list of strategies is included:
+A partial list of strategies is:
 
 * Guess and check
 * Make an orderly list
