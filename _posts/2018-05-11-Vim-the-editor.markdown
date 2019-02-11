@@ -31,6 +31,11 @@ Once you've opened a file you can instantly move to the end of it and back.<br><
 **H** - move the cursor to the **h**ighest line in the window;<br><br>
 **L** - move the cursor to the **l**owest line in the window;<br><br>
 **M** - move the cursor to the **m**iddle line in the window.<br><br>
+## Navigation within a text
+The lousiest part of editors created by programmers (for the sole purpose of editing their own programs of course!) is that they ignore the fact that what is inside the window _can be_... surprise! a meaningful text written by humans in human language. It has words, sentences, paragraphs and sections. In Vim you _can_ be a human.<br>
+**w** - move cursor to the first letter of the _next_ **w**ord or **W**ORD;<br>
+**b** - move cursor to the first letter of the _previous_ **w**ord or **W**ORD;<br><br>
+
 ## Windows.
 The most important command for Vim's windows is a **Ctrl-w** two-finger movement of your left hand, you type another letter after doing it and you get a window action.<br><br>
 #### Maximizing - minimizing.
