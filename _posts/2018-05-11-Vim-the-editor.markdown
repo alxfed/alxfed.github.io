@@ -51,7 +51,7 @@ A separate important way to think about all the realities inside Vim - the quit 
 ## Registers.
 Registers are one of the biggest achievements of Vim even if not so many people understand that they can joggle their contence with the help of **:let @a=@b** assignments between the registers, the system clipboard **"+** and the text selected in the operating system which is accessible in __"*__.
 #### Numbered
-From **"0** to **"9**; **"0** is separate **"1** - **"9** are a stack. Vim fills this stack of registers with text from yank and delete commands and pops up the contence when the **u**ndo command is issued.<br>
+From **"0** to **"9**; **"0** is separate **"1** - **"9** are a stack. Vim fills this stack of registers with text from delete-like commands without an address of a target register and pops up the contence when the **u**ndo command is issued.<br>
 **"0** - the most recent yank command...<br>
 **"1** - the most recent delete or change command...<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...unless another register was specified.<br>
