@@ -47,7 +47,7 @@ A separate important way to think about all the realities inside Vim - the quit 
 **:q** - just quit;<br>
 **:q!** - quit without saving whatever changes you have made (probably by accident);<br>
 **:wq** - write the changes made in the current window into the file, then quit.
-### Registers
+## Registers
 Registers are one of the biggest achievements of Vim even if not so many people understand that they can joggle their contence with the help of **:let @a=@b** assignments between the registers, the system clipboard **"+** and the text selected in the operating system which is accessible in __"*__.
 #### Numbered
 From **"0** to **"9**; Vim fills these registers with text from yank and delete commands.<br>
