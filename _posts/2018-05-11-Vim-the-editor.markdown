@@ -36,8 +36,8 @@ The lousiest part of editors created by programmers (for the sole purpose of edi
 #### words and WORDS
 **w** - move cursor to the first letter of the _next_ **w**ord or **W**ORD;<br>
 **b** - move cursor to the first letter of the _previous_ **w**ord or **W**ORD;<br><br>
-Small **w** or **b** considers commas and periods to be 'words' too, but the big letter commands consider only what is delimeted by spaces from both sides to be a WORD.<br>
-**3W** or **3B** work beautifully, moving the cursor three hops forward or back.<br>
+Small **w** or **b** considers commas and periods to be 'words' too, but the big letter commands consider only what is delimeted by spaces from both sides to be a WORD.<br><br>
+**3W** or **3B** work beautifully, moving the cursor three hops forward or back.<br><br>
 **e** and **E** move forward as **w** but to the end of the word or WORD.
 #### Sentences and blocks.
 **(** - hop to the first letter of the _next_ sentence;<br>
