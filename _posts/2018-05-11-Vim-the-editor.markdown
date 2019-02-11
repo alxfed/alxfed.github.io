@@ -56,7 +56,7 @@ From **"0** to **"9**; Vim fills these registers with text from yank and delete 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...unless another register was specified.<br>
 With each successive deletion 1 is moved down the stack to 2 etc.etc., 9 is purged (and lost).
 #### Named
-From **"a** to **"z**
+From **"a** to **"z**. The main bunch, where you store the important chunks that you are planning to insert somewhere but don't know yet where it will go. As I've said, you can assign them to each other with the help of **:let ...**
 #### Read-only
 These can be used with the **p**ut and **P**ut commands only.<br>
 **":** - the most recent executed command-line;<br>
