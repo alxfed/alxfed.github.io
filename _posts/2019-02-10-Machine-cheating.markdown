@@ -81,7 +81,52 @@ categories: blog posts
 • Can you derive the solution differently? Can you see it at a glance?
 • Can you use the result, or the method, for some other problem?
 </pre>
-&nbsp;&nbsp;&nbsp;&nbsp;As you can see the description of these steps of the process of solving a problem require a whole bunch of other meta-language words. I will write about them a little bit later.
+&nbsp;&nbsp;&nbsp;&nbsp;As you can see the description of these steps of the process of solving a problem require a whole bunch of other meta-language words. From another book of Polya.
+<pre>
+First Principle: Understand the problem.
+• Do you understand all the words used in stating the problem?
+• What are you asked to find or show?
+• Can you restate the problem in your own words?
+• Can you think of a picture or diagram that might help you understand
+  the problem?
+• Is there enough information to enable you to find a solution?
+
+Second Principle: Devise a plan
+Polya mentions that there are many reasonable ways to solve problems.
+The skill at choosing an appropriate strategy is best learned by
+solving many problems. You will find choosing a strategy increasingly easy.
+A partial list of strategies is included:
+
+* Guess and check
+* Make an orderly list
+* Eliminate possibilities
+* Use symmetry
+* Consider special cases
+* Use direct reasoning
+* Solve an equation
+
+* Look for a pattern
+* Draw a picture
+* Solve a simpler problem
+* Use a model
+* Work backwards
+* Use a formula
+* Be ingenious
+
+Third Principle: Carry out the plan
+Persist with the plan that you have chosen. If it continues not to work
+discard it and choose another. Don’t be misled, this is how mathematics
+is done.
+
+Fourth Principle: Look back
+Polya mentions that much can be gained by taking the time to reflect and
+look back at what you have done, what worked, and what didn’t. Doing
+this will enable you to predict what strategy to use to solve future
+problems.
+ 
+How To Solve It, by George Polya, 2nd ed., Princeton University Press, 1957
+</pre>
+I will write about these principles a little bit later.
 &nbsp;&nbsp;&nbsp;&nbsp;In any case, what I'm saying is: let's devise a meta-language for description of the techniques of 'deliberations' as in this concise Polya instruction and keep describing all the known cases of such deliberations until we find out how it can be and should be done. Otherwise we are screwed.
 <br><br>
 
