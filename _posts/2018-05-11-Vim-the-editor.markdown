@@ -17,7 +17,7 @@ categories: blog posts
 
 &nbsp;&nbsp;&nbsp;&nbsp;I've already used twice the metaphor that I'm using to think about it - the surgic procedure with the help of a cursor/'scalpel'.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;To the point. Here are the important things that I learned about Vim/Neovim. <br>
-### Navigation in file and on screens.
+## Navigation in file and on screens.
 Once you've opened a file you can instantly move to the end of it and back.<br><br>
 **gg** - beginning of the file;  **G** - last line of the file.<br><br>
 ### Moving the frame through which you see the text.
@@ -32,7 +32,7 @@ Once you've opened a file you can instantly move to the end of it and back.<br><
 **L** - move the cursor to the **l**owest line in the window;<br><br>
 **M** - move the cursor to the **m**iddle line in the window.<br><br>
 ## Windows.
-The most important command for windows is a **Ctrl-w** movement of your left hand, you type another letter after doing it and you get a window action.<br><br>
+The most important command for Vim's windows is a **Ctrl-w** two-finger movement of your left hand, you type another letter after doing it and you get a window action.<br><br>
 #### Maximizing - minimizing.
 **Ctrl-w + _** - maximize the hight of the current window;<br><br>
 **Ctrl-w + |** - maximize the width of the current window;<br><br>
