@@ -42,7 +42,7 @@ Small **w** or **b** considers commas and periods to be 'words' too, but the big
 #### Sentences and blocks.
 **(** - hop to the first letter of the _next_ sentence;<br>
 **)** - hop to the first letter of the _previous_ sentence;<br><br>
-**{** and **}** - move the cursor to the _next blank line_ / _previous blank line_ where the paragraph or section begins or ends.<br><br>
+**{** and **}** - move the cursor to the _next blank line_ / _previous blank line_ where the paragraph or section begins or ends (if it does).<br><br>
 
 ## Windows.
 The most important command for Vim's windows is a **Ctrl-w** two-finger movement of your left hand, you type another letter after doing it and you get a window action.<br><br>
