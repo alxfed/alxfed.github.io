@@ -126,8 +126,8 @@ problems.
  
 How To Solve It, by George Polya, 2nd ed., Princeton University Press, 1957
 </pre>
-I will write about these principles a little bit later.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;In any case, what I'm saying is: let's devise a meta-language for description of the techniques of 'deliberations' as in this concise Polya instruction and keep describing all the known cases of such deliberations until we find out how it can be and should be done. Otherwise we are screwed.
+I will summarise these principles a little bit later and in a different place.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;In any case, what I'm saying is: let's devise a meta-language for description of the techniques of 'deliberations' as in this concise Polya instruction and keep describing all the known cases of such deliberations in that language until we find out how it can be and should be done. Otherwise we are screwed.
 <br><br>
 
 I created a couple of virtual organizations for this topic... as always :)...<br> 
