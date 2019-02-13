@@ -19,5 +19,8 @@ Very recognisable, isn't it? As if the unnamed author of this explanation is tal
 | **array** | A multidimentional array of numbers, matrix, it doesn't <br>mean that they have any specific properties with regard<br> to transformatons (as real tensors do). | **tensor** |
 
 <br>
-I think I will continue this excercise where it belongs: [Common-Language](https://github.com/common-language).<br><br>
+I think I will continue this excercise where it belongs:
+
+[common-language](https://github.com/common-language)
+<br><br>
 Later.
