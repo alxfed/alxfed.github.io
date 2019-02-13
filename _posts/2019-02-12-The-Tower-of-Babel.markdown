@@ -13,12 +13,10 @@ Very recognisable, isn't it? As if the unnamed author of this explanation is tal
 
 &nbsp;&nbsp;&nbsp;&nbsp;Here are some results of my work, I will be adding them from time to time to this post.<br><br>
 
-|Human Language |What the expression means|Animal-speak|
+|Human Language |What the expression really means|Animal-speak|
 |---|---|---|
 | | _**TensorFlow and TensorBoard**_ | |
 | **array** | A multidimentional array of objects | **tensor** |
-
-<br><br>
 
 I think I will continue this excercise where it belongs: [Common-Language](https://github.com/common-language).<br><br>
 Later.
