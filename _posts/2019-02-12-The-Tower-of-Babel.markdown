@@ -16,7 +16,7 @@ Very recognisable, isn't it? As if the unnamed author of this explanation is tal
 |Human Language |What the expression really means|  Animal-speak  |
 |---|---|-------------------|
 | |-- _**TensorFlow and TensorBoard**_ --| |
-| **array** | A multidimentional array of numbers, matrix, it doesn't <br>mean that they have any specific properties with<br>regard to transformatons (as _real_ tensors do). | **tensor** |
+| **array** | A multidimentional array of numbers, matrix, it doesn't <br>mean that they have any specific properties with<br>regard to transformations of underlying<br>space (as _real_ tensors do). | **tensor** |
 | **number of<br>indexes** | The number of indexes of the array; has nothing to do<br>with the number of linearly independent vectors in<br> a basis of a space etc. | **rank** |
 | | The list of natural numbers denoting the size of the<br>array in every dimension. | **shape** |
 
