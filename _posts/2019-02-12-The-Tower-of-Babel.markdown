@@ -16,7 +16,7 @@ Very recognisable, isn't it? As if the unnamed author of this explanation is tal
 |Human Language |What the expression really means|Animal-speak|
 |---|---|---|
 | | _**TensorFlow and TensorBoard**_ | |
-| **array** | A multidimentional array of numbers, matrix, it <br> doesn't mean that they have any specific properties with regard to transformatons (as real tensors do). | **tensor** |
+| **array** | A multidimentional array of numbers, matrix, it doesn't <br>mean that they have any specific properties with regard<br> to transformatons (as real tensors do). | **tensor** |
 
 <br>
 I think I will continue this excercise where it belongs: [Common-Language](https://github.com/common-language).<br><br>
