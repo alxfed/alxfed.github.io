@@ -20,7 +20,7 @@ Very recognisable, isn't it? As if the unnamed author of this explanation is tal
 | **number of<br>indexes** | The number of indexes of the array; has nothing to do<br>with the number of linearly independent vectors in<br> a basis of the underlying space etc. | **rank** |
 | | The list of natural numbers denoting the size of the<br>array in every dimension. | **shape** |
 
-&nbsp;&nbsp;&nbsp;&nbsp;Just these three examples alone vividly demonstrate what I mean: the 'Animal-speak' uses the words well known in Human Language but _totally_ ignores the sophisticated meaning that has been assigned to these words a long time ago. For a simpleton with no education in _any_ science in its traditional meaning it seems to be "ok", but, believe me, this is _not_ OK. The funnier example of the last word that doesn't have a human analog, because it describes a _**useless**_ anti-mathematical (but technically valid) parameter.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Just these three examples alone vividly demonstrate what I mean: the 'Animal-speak' uses the words well known in Human Language but _totally_ ignores the sophisticated meaning that has been assigned to these words a long time ago. For a simpleton with no education in _any_ science in its traditional meaning it seems to be "ok", but, believe me, this is _not_ OK. The even funnier example is the last word that doesn't have a human analog, because it describes a _**useless**_ anti-mathematical (but technically valid) parameter.<br><br>
 
 I think I will continue this excercise somewhere else: [common-language](https://github.com/common-language)
 <br><br>
