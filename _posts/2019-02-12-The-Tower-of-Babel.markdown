@@ -5,6 +5,7 @@ excerpt: "Animal language are those forms of animal communication that are consi
 date:   2019-02-12  8:21 am
 categories: blog posts
 ---
+
 &nbsp;&nbsp;&nbsp;&nbsp;Here's the Google definition of 'Animal language':
 >Animal language are those forms of animal communication that are considered to show similarities to human language. Animal communication may be considered complex enough to be called a form of language if the inventory of signs is large, the signs are relatively arbitrary, and if the animals produce them with a degree of volition.
 
