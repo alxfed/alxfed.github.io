@@ -17,7 +17,7 @@ Very recognisable, isn't it? As if the unnamed author of this explanation is tal
 |---|---|-------------------|
 | |-- _**TensorFlow and TensorBoard**_ --| |
 | **array** | A multidimentional array of numbers, matrix, it doesn't <br>mean that they have any specific properties with regard<br>to transformatons (as _real_ tensors do). | **tensor** |
-| **number of indexes** | The number of indexes of the array; has nothing<br>to do with the number of linearly independent<br>vectors in a basis etc. | **rank** |
+| **number of indexes** | The number of indexes of the array; has nothing to do<br>with the number of linearly independent vectors in a basis<br>etc. | **rank** |
 
 <br>
 I think I will continue this excercise where it belongs:
