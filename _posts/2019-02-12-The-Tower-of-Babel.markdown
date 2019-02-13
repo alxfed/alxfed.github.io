@@ -9,7 +9,7 @@ categories: blog posts
 &nbsp;&nbsp;&nbsp;&nbsp;Here's the Google definition of 'Animal language':
 >Animal language are those forms of animal communication that are considered to show similarities to human language. Animal communication may be considered complex enough to be called a form of language if the inventory of signs is large, the signs are relatively arbitrary, and if the animals produce them with a degree of volition.
 
-Very recognisable, isn't it? As if the unnamed author of this explanation is talking about the 'scientific' articles and 1467 page books of our day. I'm still working on the 'dictionary' of terms that I started working on quite some time ago.<br>
+Very recognisable, isn't it? As if the unnamed author of this explanation is talking about the 'scientific' articles and 1467 page books of our day. I'm still working on the 'dictionary' of terms that I started putting together some time ago.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Here are some results of my work, I will be adding more of them from time to time to this post.<br><br>
 
