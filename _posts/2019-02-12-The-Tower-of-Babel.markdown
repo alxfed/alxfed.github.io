@@ -17,7 +17,7 @@ Very recognisable, isn't it? As if the unnamed author of this explanation is tal
 |---|---|-------------------|
 | |-- _**TensorFlow and TensorBoard**_ --| |
 | **array** | A multidimentional array of numbers, matrix, it doesn't <br>mean that they have any specific properties with<br>regard to transformations of underlying space (as _real_ <br>tensors do). | **tensor** |
-| **number of<br>indexes** | The number of indexes of the array; has nothing to do<br>with the number of linearly independent vectors in<br> a basis of a space etc. | **rank** |
+| **number of<br>indexes** | The number of indexes of the array; has nothing to do<br>with the number of linearly independent vectors in<br> a basis of the underlying space etc. | **rank** |
 | | The list of natural numbers denoting the size of the<br>array in every dimension. | **shape** |
 
 <br>
