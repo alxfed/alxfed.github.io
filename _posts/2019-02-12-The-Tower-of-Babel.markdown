@@ -1,8 +1,8 @@
 ---
 layout: post
-title:"The Tower of Babel of jargons related to Statistics, Machine Learning and Artificial Intelligence."
-excerpt: "Animal language are those forms of animal communication that are considered to show similarities to human language. (from Google)"
-date:   2019-02-12  8:21 am
+title:  "The Tower of Babel of jargons related to Statistics, Machine Learning and Artificial Intelligence."
+excerpt: "Or: Animal language are those forms of animal communication that are considered to show similarities to human language. (from Google)."
+date:   2018-02-12  8:55 am
 categories: blog posts
 ---
 
