@@ -17,6 +17,7 @@ Very recognisable, isn't it? As if the unnamed author of this explanation is tal
 |---|---|---|
 | | _**TensorFlow and TensorBoard**_ | |
 | **array** | A multidimentional array of objects | **tensor** |
+
 <br><br>
 | First Header  | Second Header |
 | ------------- | ------------- |
