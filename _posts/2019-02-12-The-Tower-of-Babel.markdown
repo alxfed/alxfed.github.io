@@ -19,11 +19,6 @@ Very recognisable, isn't it? As if the unnamed author of this explanation is tal
 | **array** | A multidimentional array of objects | **tensor** |
 
 <br><br>
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-<br><br>
 
 I think I will continue this excercise where it belongs: [Common-Language](https://github.com/common-language).<br><br>
 Later.
