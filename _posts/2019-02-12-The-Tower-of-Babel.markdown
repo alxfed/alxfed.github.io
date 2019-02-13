@@ -11,11 +11,12 @@ categories: blog posts
 
 Very recognisable, isn't it? As if the unnamed author of this explanation is talking about the 'scientific' articles and 1467 page books of our day. I'm still working on the 'dictionary' of terms that I started working on quite some time ago.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Here are some results of my work, I will be adding them from time to time to this post.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Here are some results of my work, I will be adding more of them from time to time to this post.<br><br>
 
 |Human Language |What the expression really means|Animal-speak|
 |---|---|---|
 | | _**TensorFlow and TensorBoard**_ | |
+| **defined value** | A parameter that has definite value | **variable** |
 | **array** | A multidimentional array of objects | **tensor** |
 
 <br>
