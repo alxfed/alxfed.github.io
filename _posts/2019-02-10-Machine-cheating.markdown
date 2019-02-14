@@ -126,11 +126,15 @@ problems.
  
 How To Solve It, by George Polya, 2nd ed., Princeton University Press, 1957
 </pre>
-I will summarise these principles a little bit later and in a different place.<br>
+I will summarise these principles a little bit later and in a different place. But as Polya, Kleene and many other people said, we should call this discipline 'heuristics', - I agree.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;In any case, what I'm saying is: let's devise a meta-language for description of the techniques of 'deliberations' as in this concise Polya instruction and keep describing all the known cases of such deliberations in that language until we find out how it can be and should be done. Otherwise we are screwed.
 <br><br>
 
 I created a couple of virtual organizations for this topic... as always :)...<br> 
 [machine-teaching](https://github.com/machine-teaching) and <br>
 [teaching-machine-to-learn](https://github.com/teaching-machine-to-learn).<br><br>
+
+P.S. After writing all this I almost immediately, the next day, to be precise, bumped into the github organization of Deep Mind and sure enough there are some repositories _exactly_ in this vein there, namely:<br>
+[Learning to Learn](https://github.com/deepmind/learning-to-learn); <br>
+[Abstract Reasoning Marices](https://github.com/deepmind/abstract-reasoning-matrices).<br><br>
 Later.
