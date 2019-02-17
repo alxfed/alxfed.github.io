@@ -22,4 +22,5 @@ As to the fact that once it has been moved from A to B the object _is not necess
  [GitBook](https://alxfed.gitbook.io)
 <br><br>
 Later.<br><br>
-P.S. http://approximatelycorrect.com/2019/02/17/openai-trains-language-model-mass-hysteria-ensues/
+P.S. http://approximatelycorrect.com/2019/02/17/openai-trains-language-model-mass-hysteria-ensues/ <br><br>
+P.P.S. **deliberate** - late Middle English (as an adjective): from Latin deliberatus, ‘considered carefully’, past participle of deliberare, from de- ‘down’ + librare ‘weigh’ (from libra ‘scales’).
