@@ -21,4 +21,5 @@ As to the fact that once it has been moved from A to B the object _is not necess
 <br><br>
  [GitBook](https://alxfed.gitbook.io)
 <br><br>
-Later.
+Later.<br><br>
+P.S. http://approximatelycorrect.com/2019/02/17/openai-trains-language-model-mass-hysteria-ensues/
