@@ -20,7 +20,10 @@ As to the fact that once it has been moved from A to B the object _is not necess
 &nbsp;&nbsp;&nbsp;&nbsp;At the same time we are clearly missing something here, namely the opportunity to create an 'obvious' representation usable in our most abstract reasoning, for instance a way to quantify the dissimilarity of meanings or optimality of models... The traditional deliberation about the 'replaceability' of different changes in dimensions is too narrow and most importantly is lacking the apparent dependence on the 'previous history' of the phenomenon under observation.<br>
 
 ### The Universal Method
-Is there a 'Universal' method that would be so intuitive that it would apply in any and every case? Of course there is! We've just discussed it, it is called "getting from here to there"! The difference in position or, even broader, **state** can be described constructively as a path from point A to point B built of a sequence of steps. The steps can be large or small or even infinitesimally small or infinitely large, but they are a continuous sequence.
+&nbsp;&nbsp;&nbsp;&nbsp;Is there a 'Universal' method that would be so intuitive that it would apply in any and every case? Of course there is! We've just discussed it, it is called "getting from here to there"! The difference in position or, even broader, **state** can be described constructively as a path from point A to point B built of a sequence of steps. The steps can be large or small or even infinitesimally small or infinitely large, but they are a continuous sequence.<br>
+
+### The Universal Dimension
+&nbsp;&nbsp;&nbsp;&nbsp;And from what we've said in the beginning and our human 'intuition' we immediately know how to 'parametrize' this sequence: by the time spent on going down the path! Notice that we can include anything and everything in the definition of 'time spent', all the information gathering and (hard) deciion making can be included. That is very useful for our synthesis, 'intuitive' and even 'obvious', ha-ha-ha!
 
 <br><br>
  [GitBook](https://alxfed.gitbook.io)
