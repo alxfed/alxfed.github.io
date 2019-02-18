@@ -25,7 +25,7 @@ As to the fact that once it has been moved from A to B the object _is not necess
 ### The Universal Dimension
 &nbsp;&nbsp;&nbsp;&nbsp;And from what we've said in the beginning and our human 'intuition' we immediately know how to 'parametrize' this sequence: by the time spent on going down the path! Notice that we can include anything and everything in the definition of 'time spent', all the information gathering and (hard) deciion making can be included. That is very useful for our synthesis, 'intuitive' probably even 'obvious', ha-ha-ha!<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Notice that our 'invention' covers pretty much everything else: the 'distance' measured along the straight line, the 'Euclidian distane' defined by the Pythagoras theorem, all sorts of 'information distances' (because we have a decision algorithm 'metrics' as a factor in the time duration). Looks nice. I like it.
+&nbsp;&nbsp;&nbsp;&nbsp;Notice that our 'invention' covers pretty much everything else: the 'distance' measured along the straight line, the 'Euclidian distance' defined by the Pythagoras theorem, all sorts of 'information distances' (because we have a decision algorithm 'metrics' as a factor in the time duration). Looks nice. I like it.
 
 <br><br>
  [GitBook](https://alxfed.gitbook.io)
