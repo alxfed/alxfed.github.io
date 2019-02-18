@@ -21,6 +21,11 @@ Wow! I wish I saw it then, 50 years ago. But I didn't. So, let's do it now!
 &nbsp;&nbsp;&nbsp;&nbsp;In google and wikipedia we immediately find the answer to the first question:
 > mid 18th century: from Latin 'datum', literally ‘something given’, neuter past participle of dare ‘give’.
 
-It is funny that the Russian word "данные" totally carries the same meaning and even the flavour of 'something given'.
-<br><br>
+It is funny that the Russian word "данные" totally carries the same meaning and even the flavour of 'something given'... without any explanation of what it is, why and what for, ha-ha-ha.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The answer to the second question is simple, because from the dictionary we know that 'data' is plural. The second answer is _not_ an English language that we know (and are still studying).<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;The description of the word 'data' in wikipedia is as follows:
+>Data and information or knowledge are often used interchangeably; however data becomes information when it is viewed in context or in post-analysis.
+
+It is hard to argue with it. As I said, in Russian it has exactly this flavour of out of context 'something', given to you by God knows who.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;But there is an interesting link in wikipedia to a page explaining this difference between 'data' and 'information' in even more detail it is [this link](https://www.diffen.com/difference/Data_vs_Information). Fun read if you have a spare minute.<br><br>
 Later.
