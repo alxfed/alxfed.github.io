@@ -16,7 +16,11 @@ visibly possible state to the present state of the object and says that the diff
 > Note aside: This is one of the mental traps of graphic depictions of all sorts and kinds. It seems to be 'obvious' that by means of some kind of 'nudging' one point can be 'moved' (continuously) from its present position to another one. Not in the slightest! In most real-life cases there is no way to 'nudge' a data point, in this sense _all_ the points between A and B don't even exist, but they are present on your graph, n.
 
 As to the fact that once it has been moved from A to B the object _is not necessarily the same_ every student of Thermodynamics who saw the P/V diagrams of the 'Carno Cycle' or other similar ones knows that _**the other**_ (hidden, not depicted on the diagram) variables may change dramatically if you change the path or even the direction (hi 'hysteresis loop') of movement along the path between these symbolic 'points' A and B.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;At the same time we are clearly missing something here, namely the opportunity to create an 'obvious' representation usable in our most abstract reasoning, for instance a way to quantify the dissimilarity of meanings or optimality of models... The traditional deliberation about the 'replaceability' of different changes in dimensions is too narrow and most importantly is lacking the apparent dependence on the 'previous history' of the phenomenon under observation.
+
+&nbsp;&nbsp;&nbsp;&nbsp;At the same time we are clearly missing something here, namely the opportunity to create an 'obvious' representation usable in our most abstract reasoning, for instance a way to quantify the dissimilarity of meanings or optimality of models... The traditional deliberation about the 'replaceability' of different changes in dimensions is too narrow and most importantly is lacking the apparent dependence on the 'previous history' of the phenomenon under observation.<br>
+
+### The Universal Method
+Is there a 'Universal' method that would be so intuitive that it would apply in any and every case? Of course there is! We've just discussed it, it is called "getting from here to there"! The difference in position or, even broader, **state** can be described constructively as a path from point A to point B built of a sequence of steps. The steps can be large or small or even infinitesimally small or infinitely large, but they are a continuous sequence.
 
 <br><br>
  [GitBook](https://alxfed.gitbook.io)
