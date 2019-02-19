@@ -19,7 +19,7 @@ and which incorrect? (Where incorrect, mention reason.)
 </pre>
 <br>
 
-Wow! I wish I saw it then, 50 years ago. But I didn't. So, let's do it now!
+Wow! I wish I saw it then, 50 years ago. But I didn't. So, let's do it now!<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In google and wikipedia we immediately find the answer to the first question:<br>
 <pre>mid 18th century: from Latin 'datum', literally ‘something given’,
@@ -44,5 +44,5 @@ When data is processed, organized, structured or presented in a
 given context so as to make it useful, it is called information.
 </pre>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The only (important) thing that I would like to add is, that, as always in the contemporary 'science of imaginary arrows' (which I will write about in another place) data is _not_ the phenomenon itself, it's a _record_ of a _representation_ obtained through a _measurement_ made with a _tool_ manipulated by an _observer_. Excluding these very important factors from the context is unforgivable, but I guess that's it is covered by "...when it is viewed in context..." in the definition above.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;The only (important) thing that I would like to add to this couple of sentences is, that, as always in the contemporary 'science of imaginary arrows' (which I will write about in another place) data is _not_ the phenomenon or **"fact"** itself, it's a _**record**_ of a _**representation**_ obtained through a _**measurement**_ made with a _**tool**_ manipulated by an _**observer**_. Excluding these very important factors from the context is unforgivable, but I guess that's it is covered by "...when it is viewed in context..." in the definition above.<br><br>
 Later.
