@@ -11,7 +11,8 @@ categories: blog posts
 
 <pre>3. Look up the word "data." Then write short answers to the following:
 a. What is its origin?
-b. Which of the following statements do you consider correct language and which incorrect? (Where incorrect, mention reason.)
+b. Which of the following statements do you consider correct language
+and which incorrect? (Where incorrect, mention reason.)
 - These data were obtained by my partner.
 - This data was obtained by my partner.
 - This set of data was obtained by my partner.
