@@ -19,5 +19,9 @@ stances are easily identiﬁable, namely, the “who”, “what”, “by what 
 Notice the particular translations of individual circumstances.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;It is important that he is discussing a very interesting subject which totally maps onto the situation of Common-Language, namely: the person being interrogated in order to decide whether something has been done intentionally or just happened by itself, naturally, without any bad will involved. Basically, we are discussing putting a blame for what has happened upon somebody here. It's because of that "where" and "when" are so unimportant that they are in the next phrase, the terrible thing has happened already, somebody is dead or something like that, the particularities - the minutes and seconds of latide and how many hours, minutes and seconds was on the watch  - are not so important now, we are putting the man to jail... or not, hehe. Same with the robots! Same with the robots!<br>
 
+There's a nice picture in wikipedia:<br>
+<p><a href="https://commons.wikimedia.org/wiki/File:Victorinus.gif#/media/File:Victorinus.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Victorinus.gif" alt="quis=persona; quid=factum; cur=causa; ubi=locus; quando=tempus; quemadmodum = modus; quib/adminiculis=facultas"></a><br>By Karl Halm (1809-1882) - Uploaded by <a href="//commons.wikimedia.org/wiki/User:Macrakis" title="User:Macrakis">Macrakis</a> on <a href="https://en.wikipedia.org/wiki/File:Victorinus.gif" class="extiw" title="en:File:Victorinus.gif">English Wikipedia</a> (17:48, 25 April 2009), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=23883511">Link</a></p>
+<br>
+
 Reference: [The Sloan's article](http://www.academia.edu/18870422/_Aristotles_Nicomachean_Ethics_as_the_Original_Locus_for_the_Septem_Circumstantiae_Classical_Philology_Vol._105_No._3_July_2010_pp._236-251) <br><br>
 Later.
