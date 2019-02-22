@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Septem Circumstantiae (Aristotle)."
-excerpt: "Or: one of the possible constructive apploaches to the Common-English synthesis."
+excerpt: "Or: one of the possible constructive approaches to the synthesis of the Common-English language for humans and machines."
 date:   2019-02-22  10:13 am
 categories: blog posts
 ---
