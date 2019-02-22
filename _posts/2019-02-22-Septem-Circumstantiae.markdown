@@ -23,5 +23,7 @@ There's a nice picture in wikipedia:<br>
 <p><a href="https://commons.wikimedia.org/wiki/File:Victorinus.gif#/media/File:Victorinus.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Victorinus.gif" alt="quis=persona; quid=factum; cur=causa; ubi=locus; quando=tempus; quemadmodum = modus; quib/adminiculis=facultas"></a><br>By Karl Halm (1809-1882) - Uploaded by <a href="//commons.wikimedia.org/wiki/User:Macrakis" title="User:Macrakis">Macrakis</a> on <a href="https://en.wikipedia.org/wiki/File:Victorinus.gif" class="extiw" title="en:File:Victorinus.gif">English Wikipedia</a> (17:48, 25 April 2009), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=23883511">Link</a></p>
 <br>
 
-Reference: [The Sloan's article](http://www.academia.edu/18870422/_Aristotles_Nicomachean_Ethics_as_the_Original_Locus_for_the_Septem_Circumstantiae_Classical_Philology_Vol._105_No._3_July_2010_pp._236-251) <br><br>
+References:<br>
+[The Sloan's article](http://www.academia.edu/18870422/_Aristotles_Nicomachean_Ethics_as_the_Original_Locus_for_the_Septem_Circumstantiae_Classical_Philology_Vol._105_No._3_July_2010_pp._236-251) <br>
+[The wikipedia article about 5W's](https://en.wikipedia.org/wiki/Five_Ws)<br><br>
 Later.
