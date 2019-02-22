@@ -5,7 +5,7 @@ excerpt: "Or: one of the possible constructive approaches to the synthesis of th
 date:   2019-02-22  10:13 am
 categories: blog posts
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;As it turns out (finally, in 2010) the source of the "Five W's (and one H)" is nothing else that the Aristotle's "Nicomachean Ethics". There they are: quis, quid, quando, ubi, cur, quem ad modum, quibus adminiculis.
+&nbsp;&nbsp;&nbsp;&nbsp;As it turns out (finally, in 2010) the source of the "Five W's (and one H)" is nothing else that the Aristotle's "Nicomachean Ethics". There they are as we know them from the more popular treatises on rhetoric: quis, quid, quando, ubi, cur, quem ad modum, quibus adminiculis (who, what, when, where, why, in what way, by what means).
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;You understand that a robot is supposed to be able to explain the circumstances of events, don't you? Aristotle thinks that this is the way to do it (as it is explained by Michael C. Sloan):<br>
