@@ -5,7 +5,7 @@ excerpt: "Or: one of the possible constructive apploaches to the Common-English 
 date:   2019-02-22  10:13 am
 categories: blog posts
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;As it turns out (finally, in 2010) the source of the "Five W's and How" is nothing else that the Aristotle's "Nicomachean Ethics".<br>
+&nbsp;&nbsp;&nbsp;&nbsp;As it turns out (finally, in 2010) the source of the "Five W's (and one H)" is nothing else that the Aristotle's "Nicomachean Ethics".<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Funnily enough the original book has a first page that was missing in the Russian translation, it is called: "Preliminary Problems Leading to Chapter I". What a shame that I wasn't able to read it then! Damn you, stupid two-faced bolshevik-pretending-to-be-physicist Arzimovich (the editor of the translation)! And sure enough the third item of the list of problems is:<br>
 
