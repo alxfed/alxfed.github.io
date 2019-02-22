@@ -26,4 +26,5 @@ There's a nice picture in wikipedia:<br>
 References:<br>
 1. [The Sloan's article](http://www.academia.edu/18870422/_Aristotles_Nicomachean_Ethics_as_the_Original_Locus_for_the_Septem_Circumstantiae_Classical_Philology_Vol._105_No._3_July_2010_pp._236-251) <br>
 2. [The wikipedia article about 5W's](https://en.wikipedia.org/wiki/Five_Ws)<br><br>
+
 Later.
