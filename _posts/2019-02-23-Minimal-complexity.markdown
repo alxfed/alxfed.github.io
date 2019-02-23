@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple philosophy and Minimal Complexity."
 excerpt: "'Why philosophy is so complicated? It ought to be completely simple.' quote from Wittgenstein has become an Internet-meme, but it may be a clue to the method of building an English language for humans and machines."
-date:   2019-02-22  10:13 am
+date:   2019-02-23  8:52 am
 categories: blog posts
 ---
 
