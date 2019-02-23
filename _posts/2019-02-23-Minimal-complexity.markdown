@@ -18,7 +18,7 @@ methods for arriving there cannot be so."<br><br>
 Ludwig Wittgenstein
 
 &nbsp;&nbsp;&nbsp;&nbsp;As it happens, the 'Internet version' of the original is 'slightly simplified'... down to a level of impersonal chewing gum for lazy brains of disrespectful 'users' of course. But this may be a clue for our careful deliberations about language too. There is a minimal necessary level of complexity for our (and their) understanding of this roaring world of (mostly useless) information. How about turning this into a guiding principle for our job of construction? I think I can do it.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Here's the idea; it may seem counterintuitive but I feel that it may be a way to overcome the complexity of the task of algorithmic description of meanings...
+&nbsp;&nbsp;&nbsp;&nbsp;Here's the idea: it may seem counterintuitive but I feel that it may be a way to overcome the complexity of the task of algorithmic description of meanings; what if we start building the _**necessary**_ descriptions of phenomena and make them as minimal as possible, but in a way that languages are constructed, not as mathematical (axiomatic) description is built? Language doesn't require knowledge of _exact_ definitions of words, it requires a degree of similarity in experiences associated with words. Is this too complex? :) Let's reexplain it once again then...
 
 <br>
 
