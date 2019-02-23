@@ -14,7 +14,7 @@ categories: blog posts
                                                 Rudyard Kipling
 </pre>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Wait a minute! Six? What about the 'septem' in 'Septem Circumstantiae'? <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;And of course we remember the 5 W's and H from the traditional teachings of contemporary journalism, which are exactly the same (but in a different order). Wait a minute! Six? What about the 'septem' in 'Septem Circumstantiae'? <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;As it turns out (finally, in 2010) the source of the "Five W's (and one H)" is nothing else that the Aristotle's "Nicomachean Ethics". There they are as we know them from the more popular treatises on rhetoric: quis, quid, quando, ubi, cur, quem ad modum, quibus adminiculis (who, what, when, where, why, in what way, by what means).
 <br>
 
