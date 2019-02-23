@@ -39,7 +39,7 @@ Notice the particular translations of individual circumstances.<br>
 | ubi | where | where | where |
 | cur | why | why | for the sake of what?<br><br>why? |
 | quem ad modum | in what way | how | how |
-| quibibus adminiculis | by what means | | by what means |
+| quibus adminiculis | by what means | | by what means |
 
 Meditate a little bit looking at this table. <br>
 
