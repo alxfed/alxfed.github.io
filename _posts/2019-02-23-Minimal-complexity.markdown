@@ -17,8 +17,8 @@ complicated as the knots. Although the result of philosophy is simple, its
 methods for arriving there cannot be so."<br><br>
 Ludwig Wittgenstein
 
-&nbsp;&nbsp;&nbsp;&nbsp;As it happens, the 'Internet version' of the original is 'slightly simplified'... down to a level of impersonal chewing gum for lazy brains of disrespectful 'users' of course. But this may be a clue for our careful deliberations about language too. There is a minimal necessary level of complexity for our (and their) understanding of this roaring world of (mostly useless) information. How about turning this into a guiding principle for our job of construction?<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;I think I can do it.
+&nbsp;&nbsp;&nbsp;&nbsp;As it happens, the 'Internet version' of the original is 'slightly simplified'... down to a level of impersonal chewing gum for lazy brains of disrespectful 'users' of course. But this may be a clue for our careful deliberations about language too. There is a minimal necessary level of complexity for our (and their) understanding of this roaring world of (mostly useless) information. How about turning this into a guiding principle for our job of construction? I think I can do it.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Here's the idea; it may seem counterintuitive but I feel that it may be a way to overcome the complexity of the task of algorithmic description of meanings...
 
 <br><br>
 
