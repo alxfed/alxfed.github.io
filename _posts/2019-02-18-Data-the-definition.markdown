@@ -33,7 +33,7 @@ however data becomes information when it is viewed in context or in
 post-analysis.</pre>
 
 It is hard to argue with this. As I said, in Russian it has exactly this flavour of out of context 'something', given to you by God knows who.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;But there is an interesting link in wikipedia to a page explaining this difference between 'data' and 'information' in even more detail it is [this link](https://www.diffen.com/difference/Data_vs_Information). Fun read if you have a spare minute. The main snippet from it is this:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;But there is an interesting link in wikipedia to a page explaining this difference between 'data' and 'information' in even more detail, it is [this link](https://www.diffen.com/difference/Data_vs_Information). Fun read if you have a spare minute. The main snippet from it is this:<br>
 <pre>
 Data is raw, unorganized facts that need to be processed.
 Data can be something simple and seemingly random and useless
