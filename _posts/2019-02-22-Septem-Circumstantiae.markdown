@@ -31,7 +31,7 @@ Notice the particular translations of individual circumstances.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;As Sloan mentions, and I think he is right, the passage is a little bit more than a recommendation for rhetoric, it is a shema for classification of voluntary and involuntary acts and that's why it is important and useful for the task that is in front of us with our machines.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I'm a little bit confused... let's make a table.
 
-| Latin | Rhetoric | Kipling | Aristotle / Sloan |
+| Latin | Rhetoric | Kipling & 5W's | Aristotle / Sloan |
 | --- | --- | --- | --- |
 | quis | who | who |  who |
 | quid | what | what | what |
