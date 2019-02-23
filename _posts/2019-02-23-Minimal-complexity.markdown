@@ -9,7 +9,7 @@ categories: blog posts
 >"Why philosophy is so complicated? It ought to be entirely simple."
 
 But its not an exact quote! The exact quote is:
-> "Why is philosophy so complicated? It ought, after all, to be _completely_ simple. 
+> "Why is philosophy so complicated? It ought, after all, to be __completely__ simple. 
 Philosophy unties the knots in our thinking, which we have tangled up in
 an absurd way; but to do that, it must make movements which are just as
 complicated as the knots. Although the result of philosophy is simple, its
