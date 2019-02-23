@@ -17,7 +17,6 @@ and which incorrect? (Where incorrect, mention reason.)
 - This data was obtained by my partner.
 - This set of data was obtained by my partner.
 </pre>
-<br>
 
 Wow! I wish I saw it then, 50 years ago. But I didn't. So, let's do it now!<br>
 
