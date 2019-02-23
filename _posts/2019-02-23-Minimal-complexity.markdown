@@ -17,7 +17,8 @@ this:
 an absurd way; but to do that, it must make movements which are just as
 complicated as the knots. Although the result of philosophy is simple, its
 methods for arriving there cannot be so."
-                                            Ludwig Wittgenstein
+
+                                                Ludwig Wittgenstein
 </pre>
 
 &nbsp;&nbsp;&nbsp;&nbsp;As it happens, the Internet version is 'slightly simplified'... down to a level of impersonal chewing gum for lazy brains of disrespectful 'users' of course. But this may be a clue for our careful deliberations about language too. There is a minimal necessary level of complexity for their functioning in this roaring world of information.<br><br>
