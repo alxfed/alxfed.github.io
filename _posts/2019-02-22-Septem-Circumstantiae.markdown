@@ -41,7 +41,7 @@ Notice the particular translations of individual circumstances.<br>
 | quem ad modum | in what way | how | how |
 | quibus adminiculis | by what means | | by what means |
 
-Meditate a little bit looking at this table. <br>
+Meditate a little bit looking at this table. What I see is that the latin 'journalists' might have a "5 Q's, U and C" mnemonic rule. :) I also love the _**questions**_ : quis, quid, quando, quem and quibus :) where the word "question" itself is clearly comming from the same root. :)<br>
 
 There's a nice picture in wikipedia:<br>
 <p><a href="https://commons.wikimedia.org/wiki/File:Victorinus.gif#/media/File:Victorinus.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Victorinus.gif" alt="quis=persona; quid=factum; cur=causa; ubi=locus; quando=tempus; quemadmodum = modus; quib/adminiculis=facultas"></a><br>By Karl Halm (1809-1882) - Uploaded by <a href="//commons.wikimedia.org/wiki/User:Macrakis" title="User:Macrakis">Macrakis</a> on <a href="https://en.wikipedia.org/wiki/File:Victorinus.gif" class="extiw" title="en:File:Victorinus.gif">English Wikipedia</a> (17:48, 25 April 2009), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=23883511">Link</a></p>
