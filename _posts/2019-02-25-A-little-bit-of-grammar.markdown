@@ -16,6 +16,8 @@ categories: blog posts
 Sing! (imperative)<br>
 Let's sing! (hortative)
 
+exhort = strongly encourage or urge (someone) to do something.
+
 
 <br><br>
 [Optative](https://en.wikipedia.org/wiki/Optative_mood)<br>
