@@ -10,11 +10,17 @@ categories: blog posts
 &nbsp;&nbsp;&nbsp;&nbsp;Let's look into the book of linguistics and English Grammar in particular.
 >In linguistics, grammatical mood (also mode) is a grammatical feature of verbs, used for signaling modality.<br><br>...examples of moods are indicative, interrogative, imperative, subjunctive, injunctive, optative, and potential.<br><br>...Some Uralic Samoyedic languages have more than ten moods; Nenets has as many as sixteen.<br><br>The original Indo-European inventory of moods consisted of indicative, subjunctive, optative, and imperative.<br><br>English has indicative, imperative, and subjunctive moods; other moods, such as the conditional, do not appear as morphologically distinct forms.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;There are two aspects in what we've just borrowed from wikipedia: English has three moods only, primitive languages have _more_ moods.
+&nbsp;&nbsp;&nbsp;&nbsp;There are two aspects in what we've just borrowed from wikipedia: English has three moods only, primitive languages have _more_ moods.<br>
+
+> May he live a hundred years! (optative)<br>
+Sing! (imperative)<br>
+Let's sing! (hortative)
 
 
-
-<br>
+<br><br>
+[Optative](https://en.wikipedia.org/wiki/Optative_mood)<br>
+[Hortative](https://en.wikipedia.org/wiki/Hortative)<br>
+[Imperative](https://en.wikipedia.org/wiki/Imperative_mood)<br><br>
 
 
 Later.
