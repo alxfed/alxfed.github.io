@@ -20,7 +20,7 @@ The expected answer is:
 ... and a further mutual identification as a conversation starter.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Of course if you hear noises that some human could produce himself or by activating a machine you ask:
 <pre>
-      Is somebody here/there?
+      Is somebody/someone here/there?
       Who is here/there?
 </pre>
 The expected answer again is:
