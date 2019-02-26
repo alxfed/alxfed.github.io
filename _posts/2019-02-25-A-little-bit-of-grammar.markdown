@@ -35,7 +35,7 @@ The expected answer again is:
       Are you here/there?
       Where are you?
 </pre>
-The expected answer is:
+By 'you' you mean the person that you expect. The expected answer is:
 <pre>
       Yes.
       I am here.
