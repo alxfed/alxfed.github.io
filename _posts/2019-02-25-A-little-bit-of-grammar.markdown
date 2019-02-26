@@ -41,6 +41,8 @@ By 'you' you mean the person that you expect. The expected answer is:
       I am here.
 </pre>
 &nbsp;&nbsp;&nbsp;&nbsp;This pretty much ends the list of scenarios when you need a robot to indicate his presence and his ability to react to speech and respond to you verbally.
+### Mutual identification.
+&nbsp;&nbsp;&nbsp;&nbsp;The second stage of conversation is an optional mutual identification.
 ### Background
 &nbsp;&nbsp;&nbsp;&nbsp;Let's look into the book of linguistics and English Grammar in particular.
 >In linguistics, grammatical mood (also mode) is a grammatical feature of verbs, used for signaling modality.<br><br>...examples of moods are indicative, interrogative, imperative, subjunctive, injunctive, optative, and potential.<br><br>...Some Uralic Samoyedic languages have more than ten moods; Nenets has as many as sixteen.<br><br>The original Indo-European inventory of moods consisted of indicative, subjunctive, optative, and imperative.<br><br>English has indicative, imperative, and subjunctive moods; other moods, such as the conditional, do not appear as morphologically distinct forms.<br>
