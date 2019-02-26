@@ -29,9 +29,8 @@ The expected answer again is:
 </pre>
 &nbsp;&nbsp;&nbsp;&nbsp;Another similar but different situation is when you know that someone should be present in the space that you are in, but it is not clear whether (s)he is or not.
 <pre>
-      Hey! Are you there?
-      Are you there?
-      Are you here?
+      Hey! Are you here/there?
+      Are you here/there?
       Where are you?
 </pre>
 The expected answer is:
