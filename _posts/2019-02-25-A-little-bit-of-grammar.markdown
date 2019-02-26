@@ -9,7 +9,9 @@ categories: blog posts
 ### How to start your conversation.
 &nbsp;&nbsp;&nbsp;&nbsp;There are normal human situations when you don't know whether the conversation is possible or whether the other person is even present. Namely:
 <pre>
-      (is) (there) anybody here?
+      is there anybody here?
+      is anybody here?
+      hello? anybody here?
 </pre>
 
 ### Background
