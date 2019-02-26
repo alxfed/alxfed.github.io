@@ -7,6 +7,11 @@ categories: blog posts
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;It seemed so obvious that humans will talk to machines as if they are humans, humans after all have this tendency of personification of pretty much everything, including the forces of nature... Nope! It proved to be _not_ so simple. The psychological situation of 'talking to a machine' has a very subtle purely psychological difficulty of unknown ability of the robot to hear and understand what you are saying and I think I have an idea how to overcome it, at least on our present stage of development and, maybe, start building the style from right there.<br><br>
 ### How to start your conversation.
+&nbsp;&nbsp;&nbsp;&nbsp;There are normal human situations when you don't know whether the conversation is possible or whether the other person is even present. Namely:
+<pre>
+      (is) (there) anybody here?
+</pre>
+
 ### Background
 &nbsp;&nbsp;&nbsp;&nbsp;Let's look into the book of linguistics and English Grammar in particular.
 >In linguistics, grammatical mood (also mode) is a grammatical feature of verbs, used for signaling modality.<br><br>...examples of moods are indicative, interrogative, imperative, subjunctive, injunctive, optative, and potential.<br><br>...Some Uralic Samoyedic languages have more than ten moods; Nenets has as many as sixteen.<br><br>The original Indo-European inventory of moods consisted of indicative, subjunctive, optative, and imperative.<br><br>English has indicative, imperative, and subjunctive moods; other moods, such as the conditional, do not appear as morphologically distinct forms.<br>
