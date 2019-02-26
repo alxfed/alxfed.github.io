@@ -18,6 +18,15 @@ The expected answer is:
       I am here.
 </pre>
 ... and a further mutual identification as a conversation starter.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Of course if you hear noises that some human could produce himself or by activating a machine you ask:
+<pre>
+      Is somebody here/there?
+      Who is here/there?
+</pre>
+The expected answer again is:
+<pre>
+      _I_ am here
+</pre>
 &nbsp;&nbsp;&nbsp;&nbsp;Another similar but different situation is when you know that someone should be present in the space that you are in, but it is not clear whether (s)he is or not.
 <pre>
       Hey! Are you there?
