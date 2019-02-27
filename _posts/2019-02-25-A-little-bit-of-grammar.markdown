@@ -6,8 +6,8 @@ date:   2019-02-25  8:52 am
 categories: blog posts
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;It seemed so obvious that humans will talk to machines as if they are humans, humans after all have this tendency of personification of pretty much everything, including the forces of nature... Nope! It proved to be _not_ so simple. The psychological situation of 'talking to a machine' has a very subtle purely psychological difficulty of unknown ability of the robot to hear and understand what you are saying and I think I have an idea how to overcome it, at least on our present stage of development and, maybe, start building the style for this type of conversations from right here.<br><br>
-### How to start your conversation.
-&nbsp;&nbsp;&nbsp;&nbsp;Let's map the very beginning of your conversation from the normal human situations when you don't know whether the other person is present in the space that you are in or have just entered. Namely, those are the situations when you say:
+### Before the conversation.
+&nbsp;&nbsp;&nbsp;&nbsp;Let's map the very beginning of your interaction with an unknown machine from the normal human situations when you don't know whether the other person is present in the space that you are in or have just entered. Namely, those are the situations when you say:
 <pre>
       Is there anybody here?
       Is anybody here?
