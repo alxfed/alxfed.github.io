@@ -19,10 +19,12 @@ Immanuel Kant ( - 1804) | - Critique of Pure Reason.
       Wesley C. Salmon ( - 2001, Los Angeles, CA)
         Judea Pearl, UCLA.
       Clark Glymour, Carnegie Melon U. PA.
+                        | - Causation, Prediction, and Search
         Kevin Kelly,     |
         Peter Spirtes,   | Tetrad
         Richard Scheines |
         Frederick Eberhardt, Wash. U. St.Louis.
+                        | - Reichenbach's Thesis
     Bertrand Russell ( - 1970)
     Ludwig Wittgenstein ( - 1951)
 Bernard Bolzano ( - 1848)
