@@ -16,6 +16,7 @@ Immanuel Kant ( - 1804)
   Ernst Mach ( - 1916)
     Hans Reichenbach ( - 1953, Los Angeles, CA)
       Wesley C. Salmon ( - 2001, Los Angeles, CA)
+        Judea Pearl, UCLA.
       Clark Glymour, Carnegie Melon U. PA.
         Frederick Eberhardt, Wash. U. St.Louis.
     Bertrand Russell ( - 1970)
