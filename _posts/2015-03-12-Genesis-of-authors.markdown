@@ -11,7 +11,9 @@ categories: blog posts
 <pre>
 Immanuel Kant ( - 1804)
   Bernard Bolzano ( - 1848)
-    Ernst Mach (
+  Herman Helmholtz ( - 1894)
+    Heinrich Hertz ( - 1894)
+  Ernst Mach ( - 1916)
     Hans Reichenbach ( - 1953, Los Angeles, CA)
       Wesley Salmon ( - 2001, Los Angeles, CA)
       Clark Glymour, Carnegie Melon U. PA.
