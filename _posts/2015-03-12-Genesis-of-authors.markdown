@@ -10,7 +10,6 @@ categories: blog posts
 ### The Lineage of Contemporary Philosophers
 <pre>
 Immanuel Kant ( - 1804)
-  Bernard Bolzano ( - 1848)
   Herman Helmholtz ( - 1894)
     Heinrich Hertz ( - 1894)
   Ernst Mach ( - 1916)
@@ -21,5 +20,6 @@ Immanuel Kant ( - 1804)
         Frederick Eberhardt, Wash. U. St.Louis.
     Bertrand Russell ( - 1970)
     Ludwig Wittgenstein ( - 1951)
+Bernard Bolzano ( - 1848)
 </pre>
 Later.
