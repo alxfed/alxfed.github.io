@@ -9,9 +9,10 @@ categories: blog posts
 &nbsp;&nbsp;&nbsp;&nbsp;That is why I decided to create this Genesis for myself. It reflects my process of reading too, so, I will keep adding nodes to this graph until I get bored by the idea. I view it as a Fürstenzug of sorts, that I saw in Dresden once.<br>
 ### The Lineage of Contemporary Philosophers
 <pre>
-Emmanuel Kant (died in 1804)
-  Reichenbach
-  
-  Wittgenstein
+Immanuel Kant ( - 1804)
+  Bernard Bolzano ( - 1848)
+    Hans Reichenbach ( - 1953)
+    Bertrand Russell ( - 1970)
+    Ludwig Wittgenstein ( - 1951)
 </pre>
 Later.
