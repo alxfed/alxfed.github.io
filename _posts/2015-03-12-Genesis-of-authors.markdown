@@ -9,7 +9,9 @@ categories: blog posts
 &nbsp;&nbsp;&nbsp;&nbsp;That is why I decided to create this Genesis for myself. It reflects my process of reading too, so, I will keep adding nodes to this graph until I get bored by the idea. I view it as a Fürstenzug of sorts, that I saw in Dresden once.<br>
 ### The Lineage of Contemporary Philosophers
 <pre>
-Immanuel Kant ( - 1804)      - Critique of Pure Reason
+Immanuel Kant ( - 1804) | - Critique of Pure Reason.
+                        | - Metaphysical Foundations
+                            of Natural Science.
   Herman Helmholtz ( - 1894)
     Heinrich Hertz ( - 1894)
   Ernst Mach ( - 1916)
