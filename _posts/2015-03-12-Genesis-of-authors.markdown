@@ -17,6 +17,8 @@ Immanuel Kant ( - 1804)
       Wesley C. Salmon ( - 2001, Los Angeles, CA)
         Judea Pearl, UCLA.
       Clark Glymour, Carnegie Melon U. PA.
+        Peter Spirtes,
+        Richard Scheines
         Frederick Eberhardt, Wash. U. St.Louis.
     Bertrand Russell ( - 1970)
     Ludwig Wittgenstein ( - 1951)
