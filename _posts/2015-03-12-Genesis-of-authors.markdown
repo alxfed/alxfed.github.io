@@ -31,7 +31,8 @@ Bernard Bolzano ( - 1848)
 </pre>
 ### The Lineage of Statisticians (the Cult of 'Correlation')
 <pre>
-The prophets of the Cult:
+
+<b>The Prophets of the Cult:</b>
 
 Francis Galton ( - 1911)
   Karl Pearson ( - 1936)
@@ -40,12 +41,15 @@ Francis Galton ( - 1911)
         Egon Pearson ( - 1980)
         Jerzy Neyman ( - 1981)  
         
-Expelled from the cult:
+<b>Expelled from the cult:</b>
 
   Udny Yule ( - 1951) - Yule-(Simpson) effect / paradox.
   
+<b>Never been in the cult:</b>
+
+  Marquis de Condorcet - "Condorcet Paradox".
 </pre>
-### Cause and effect relationship
+### Present day Cause and Effect relationship theory Lineage.
 <pre>
 Path Analysis (Sewall Wright)
   Causal Inference (Judea Pearl)
