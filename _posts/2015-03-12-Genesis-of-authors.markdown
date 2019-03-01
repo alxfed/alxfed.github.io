@@ -29,6 +29,15 @@ Immanuel Kant ( - 1804) | - Critique of Pure Reason.
     Ludwig Wittgenstein ( - 1951)
 Bernard Bolzano ( - 1848)
 </pre>
+### The Lineage of Statisticians (the Cult of 'Correlation')
+<pre>
+Francis Galton ( - 1911)
+  Karl Pearson ( - 1936)
+    William Sealy Gosset ( - 1937)
+      Ronald Fisher ( - 1962)
+        Egon Pearson ( - 1980)
+        Jerzy Neyman ( - 1981)  
+</pre>
 ### Cause and effect relationship
 <pre>
 Path Analysis (Sewall Wright)
