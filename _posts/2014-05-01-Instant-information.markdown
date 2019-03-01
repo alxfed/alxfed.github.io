@@ -21,10 +21,10 @@ Your curiosity developed in your brain as you were growing up. Chances are it wa
 #### Step 1'. Deside why do you need knowledge.
 Yes, I understand how paradoxical it sounds, but that is where we are in an unchartered territory full of paradoxes. There may be several reasonable motivations for knowledge acquisition:
 1. You may want to acquire a marketable skill throught knowledge, teach yourself something that will benefit your career growth or let you change the profession that you have altogether.
-2. You can have doubts about the interpretations of scientific data or opinions that are being circulated in the society which are reasonably important for the livelihood of the society, the World in general or yoursel personally.
-3. Learning new things may be entertaining for you by itself. Knowledge acquisition brings you a sense of intellectual pleasure.
+2. You can have doubts about the interpretations of scientific data or opinions that are being circulated in the society which are reasonably important for the livelihood of the society, the World in general or yourself personally.
+3. Lastly, learning new things may be entertaining for you by itself. Knowledge acquisition brings you a sense of intellectual pleasure and that is the desired state of mind - learning as a passtime.
 
-In any of these cases you need to identify for yorself _why_ you are doing it. If you don't - you will be lost in this forest in no time.
+In any of these cases you need to identify for yorself _why_ you are doing it. If you don't - you will be lost in this forest in no time, if you do you will be able to say to yourself: "Today I allocate 2 hours of my time to learning, because... I need to know this for that / I want to know more about climate change / I'm tired of all these complicated everyday situations with unpredictable humans and want to study a little bit of mathematics where the problems are well defined and you can calculate."
 #### Step 2. Deside what your real interests are. Limit the scope.
 There are questions that for one reason or another have captured your imagination and _demand_ your attention despite all the measures of self-control that you are using (the leash of your curiosity, remember?). Make a list of them, you will need it later. For now just say to yourself (broadly): "I'm interested in physics and mathematics" or "I'm interested in the History of Roman Republic and the history of Dutch seafarers", that will be sufficent.
 #### Step 3. Learn how to _always_ remember what you are doing.
