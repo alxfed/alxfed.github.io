@@ -37,6 +37,9 @@ Francis Galton ( - 1911)
       Ronald Fisher ( - 1962)
         Egon Pearson ( - 1980)
         Jerzy Neyman ( - 1981)  
+        
+Expelled from the cult:
+      Udny Yule ( - 1951)
 </pre>
 ### Cause and effect relationship
 <pre>
