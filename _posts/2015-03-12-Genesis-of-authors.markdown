@@ -57,6 +57,11 @@ Francis Galton ( - 1911)
 <b>Never been in the cult:</b>
 
   Marquis de Condorcet - "Condorcet Paradox".
+  
+<b> The expanders of the religion:</b>
+
+    John Tukey ( - 2000) - 1962 paper “The Future of Data Analysis.”
+    
 </pre>
 ### Present day Cause and Effect relationship theory Lineage.
 <pre>
