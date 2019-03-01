@@ -43,7 +43,7 @@ Francis Galton ( - 1911)
         
 <b>Expelled from the cult:</b>
 
-  Udny Yule ( - 1951) - Yule-(Simpson) effect / paradox.
+    Udny Yule ( - 1951) - Yule-(Simpson) effect / paradox.
   
 <b>Never been in the cult:</b>
 
