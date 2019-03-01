@@ -38,11 +38,15 @@ Francis Galton ( - 1911)
   Karl Pearson ( - 1936)
     William Sealy Gosset ( - 1937)
       Ronald Fisher ( - 1962)
+        Yates
+        Finney
+        Davies
       
 <b> Dissidents</b>    
+      Abraham Wald ( - 1950)
         Egon Pearson ( - 1980)
         Jerzy Neyman ( - 1981)  
-        Abraham Wald ( - 1950)
+
         
 <b>Expelled from the cult:</b>
 
