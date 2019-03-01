@@ -61,6 +61,8 @@ Francis Galton ( - 1911)
 <b> The expanders of the religion:</b>
 
     John Tukey ( - 2000) - 1962 paper “The Future of Data Analysis.”
+                           Annals of Mathematical Statistics 33: 1–79.
+    Joseph Kruskal ( - 2010) - 
     
 </pre>
 ### Present day Cause and Effect relationship theory Lineage.
