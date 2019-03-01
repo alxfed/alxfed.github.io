@@ -29,4 +29,9 @@ Immanuel Kant ( - 1804) | - Critique of Pure Reason.
     Ludwig Wittgenstein ( - 1951)
 Bernard Bolzano ( - 1848)
 </pre>
+### Cause and effect relationship
+<pre>
+Path Analysis (Sewall Wright)
+  Causal Inference (Judea Pearl)
+</pre>
 Later.
