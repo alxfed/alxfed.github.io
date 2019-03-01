@@ -31,6 +31,8 @@ Bernard Bolzano ( - 1848)
 </pre>
 ### The Lineage of Statisticians (the Cult of 'Correlation')
 <pre>
+The prophets of the Cult:
+
 Francis Galton ( - 1911)
   Karl Pearson ( - 1936)
     William Sealy Gosset ( - 1937)
@@ -39,7 +41,9 @@ Francis Galton ( - 1911)
         Jerzy Neyman ( - 1981)  
         
 Expelled from the cult:
-      Udny Yule ( - 1951)
+
+  Udny Yule ( - 1951) - Yule-(Simpson) effect / paradox.
+  
 </pre>
 ### Cause and effect relationship
 <pre>
