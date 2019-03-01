@@ -58,7 +58,7 @@ Francis Galton ( - 1911)
 
   Marquis de Condorcet - "Condorcet Paradox".
   
-<b> The expanders of the religion:</b>
+<b>The expanders of the Religion as a whole:</b>
 
     John Tukey ( - 2000) - 1962 paper “The Future of Data Analysis.”
                            Annals of Mathematical Statistics 33: 1–79.
