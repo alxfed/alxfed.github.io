@@ -37,7 +37,7 @@ Bernard Bolzano ( - 1848)
 Francis Galton ( - 1911)
   Karl Pearson ( - 1936)
     William Sealy Gosset ( - 1937)
-      Ronald Fisher ( - 1962)
+      Ronald Fisher ( - 1962) - had scandals with Pearson.
         Yates
         Finney
         Davies
@@ -51,7 +51,8 @@ Francis Galton ( - 1911)
         
 <b>Expelled from the cult:</b>
 
-    Udny Yule ( - 1951) - Yule(-Simpson) effect / paradox.
+    Udny Yule ( - 1951) - Yule(-Simpson) effect / paradox
+                          personally attacked by Pearson.
   
 <b>Never been in the cult:</b>
 
