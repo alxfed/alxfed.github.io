@@ -43,6 +43,7 @@ Francis Galton ( - 1911)
         Davies
       
 <b> Dissidents</b>    
+
       Abraham Wald ( - 1950)
         Egon Pearson ( - 1980)
         Jerzy Neyman ( - 1981)  
