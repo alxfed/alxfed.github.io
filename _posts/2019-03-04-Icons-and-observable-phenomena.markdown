@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Icons and the observable phenomena."
-excerpt: "The way we draw or otherwise  visually or symbolically 'represent' the observed phenomena influences our intuitions in a way that is not always productive and sometimes is outright wrong."
+excerpt: "The way we draw or otherwise  visually or symbolically 'represent' the observed phenomena influences our intuitions in a way that is not always productive and sometimes is outright wrong as in the case of 'arrows' and polar / axial vectors."
 date:   2019-03-04  8:11 am
 categories: blog posts
 ---
