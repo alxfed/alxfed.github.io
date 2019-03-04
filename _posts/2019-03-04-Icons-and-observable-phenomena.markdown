@@ -12,7 +12,7 @@ categories: blog posts
 #### What was useful
 &nbsp;&nbsp;&nbsp;&nbsp;The points that were particularly useful:
 1. This Hamilton's BS mixing matices-objects and matrices-transforms is just that - BS, as I always felt. It would be good to write about it separately, probably in conjunction with the time dimension explanations.
-2. The real method should be much stranger than what the ancient philosophers envisioned, namely: after our manipulations with formulas we come to a 'conclusion', then we return to the metaphysics of the phenomenon and fix it, then we go back to experiment and rebuild it based on the new metaphysics, then we change the metaphor based on the result of the new experiment. Sounds very strange.
+2. The real method should be much stranger than what the ancient philosophers envisioned, namely: after our manipulations with formulas we come to a 'conclusion', then we return to the metaphysics of the phenomenon and fix it, then we go back to experiment and rebuild it based on the new metaphysics, then we change the metaphor based on the result of the new experiment. Sounds very strange. The name 'meta-induction' for description of this process comes to mind immediately.
 3. Distances as matrices and distances as graphs / trees are an idea that keeps coming to my mind over and over again. Maybe it's time to write a paper about them.
 <br><br>
 Later.
