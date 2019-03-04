@@ -31,6 +31,10 @@ There are questions that for one reason or another have captured your imaginatio
 It's a paradoxical task, I know. Your head should be busy with doing what you are focused on and at the same time some part of it should remember where you are, what exactly is happening around you and what is the prediction about this situation in the foreseable future. Notice that you have the mechanics of this 'background monitoring' process, you only need to discover it and program it for your needs.
 > Note: I wrote about it much later and inclided [this link](https://alxfed.github.io/blog/posts/2018/11/25/Method-Override-Unbewitchment.html) here.
 
+#### Step 4. Learn how to control your sense of being puzzled.
+Most importantly, you are going on a life-long journey, you will learn a lot and forget a lot, the circle of your knowledge will expand drammatically, so will the circumference of your ignorance. Every now and then you will step over the imaginary boundary between the known and unknown and feel puzzled, lost and overwhelmed. This is a state where you are semi-paralyzed by the new information that you are ingesting and can not understand how to attach it to what you know and understand. There are couple of techniques that you will need, I developed them for myself and am using them routinely whenever I feel lost and confused.<br>
+First of all ask yourself: "what language this is in?"<br>
+
 <br>
 Later.
 
