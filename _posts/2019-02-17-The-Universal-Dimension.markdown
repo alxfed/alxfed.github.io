@@ -30,7 +30,11 @@ As to the fact that once it has been moved from A to B the object _is not necess
 ### A full Cycle and two Half-cycles. 
 &nbsp;&nbsp;&nbsp;&nbsp;There is a _main_ subtlety here though, because when the object goes down the second and further parts of the composite path it is happening _after the first part_ which might have changed the 'hidden variables', intrinsic to the object. And this is exactly the prompt that we were looking for! Let's form two structures: a full Cycle and two Half-cycles. The full Cycle being an intuitively understandable _return to initial position_ (only 'position', in the observed variables, not the 'state' in all variables) and the two Half-cycles construct being a situation when the object goes from one point A to a distinct another point B down _two_ disctinctely different paths but the intitial point and the end point are exactly the same in terms of the observed variables. The visual metaphor (and example) of/for this are two half-circles, one travelled clockwise and another - counter-clockwise; each of them 'can be' completed and in this way become a full cycle.<br>
 
-> What is this 'return to initial position' you may ask? Simple! Remember thouse Elie Cartan's 'Null vectors'? Same thing. I think I will be calling them 'cycles' from now on.
+> What is this 'return to initial position' you may ask? Simple! Remember
+> thouse Elie Cartan's 'Null vectors'? Same thing. As I understand the first
+> mentioning of 'spinor-like' constructs is in the Euclid's book X of
+> "Elements". I think I will be calling them 'cycles' from now. More about it
+> later.
 
 &nbsp;&nbsp;&nbsp;&nbsp;We've just made a major logical leap here: we passed from _exactly factual_ reasoning of paths to hypotheticals of multiple _connected_ events and _equivalences_. The construct of two Half-cycles is necessary because in many cases you can not even pretend that you are returning to the initial state, you can only pretend that you can make one more experiment with the 'same' initial conditions. Notice how many hypotheticals are involved in this line of reasoning.
 &nbsp;&nbsp;&nbsp;&nbsp;I will expand on this (main) subject in full detail later, because it gives us exactly the toolset of techniques for our analysis that we are looking for.
