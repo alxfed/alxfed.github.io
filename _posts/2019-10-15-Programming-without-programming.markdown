@@ -27,7 +27,7 @@ designated for talking with help. And, by the way, there was no 'programming'
 per se at the time too. :) <br><br>
 #### The Windows and Gates.
 &nbsp;&nbsp;&nbsp;&nbsp;And here comes Bill Gates and instead of opening 
-the gates starts making windows through which people will be just peeking 
+the gates (of progress) starts crafting windows through which people will be just peeking 
 (if they pay enough) instead of acting within the new environment full of 
 data and ways to transform it. Of course you need to 'entertain' your 
 captive crowd of peepers with something that is not really serious, but _seems_ to 
