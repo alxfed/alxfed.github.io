@@ -30,14 +30,14 @@ per se at the time too. :) <br><br>
 the gates starts making windows through which people will be just peeking 
 (if they pay enough) instead of acting within the new environment full of 
 data and ways to transform it. Of course you need to 'entertain' your 
-captive crowd with something that is not really serious, but _seems_ to 
+captive crowd of peepers with something that is not really serious, but _seems_ to 
 be really important for the 'productivity'. Basically, it will not help 
 your work in any real way, but you will _think_ that some day it will 
-and that's why you will __pay the price__ and agree with the End User 
+and that's why you will __pay the price__ and agree with the 's...tware' End User 
 License Agreement that states that it has "...NO...FITNESS FOR A 
 PARTICULAR PURPOSE" (the wording is for the current versions, in the 
-past it was 'no particular use', basically, __useless__, but expensive). 
-And that's how the wonderful idea of 'Programming without programming' 
+past it was 'no particular use', basically, __useless__ :) , but expensive).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;And that's how the wonderful idea of 'Programming without programming' 
 came to life. <br><br>
 After some time it boiled down to some messy data wrangling within a CRM system and for the first time in maybe a couple of decades I had to deal again with the so called 'programming wihout programming'.
 <br><br>
