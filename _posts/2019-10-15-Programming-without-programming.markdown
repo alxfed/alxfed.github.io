@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Programming without programming'... Oh! My..."
-excerpt: "The wet Microsoft dream of 1990-s has come... true?... maybe not. All these 'self-services' like Zapier... Or what I've been doing for half a year."
+excerpt: "The wet Microsoft dream of 1990-s has come... true?... maybe not. All these 'self-services' like Zapier, IFTTT, etc.etc. Or what I've been doing for half a year."
 date:   2019-10-15  5:46 pm
 categories: blog posts
 ---
