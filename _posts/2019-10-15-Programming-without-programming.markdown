@@ -42,7 +42,33 @@ the current versions, in the past it was 'no particular use', basically,
 __useless__ :) , but expensive).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;And that's how the wonderful idea of 'Programming 
 without programming' came to life. <br><br>
-After some time it boiled down to some messy data wrangling within a CRM system and for the first time in maybe a couple of decades I had to deal again with the so called 'programming wihout programming'.
+#### Mama mia, here we go again...
+&nbsp;&nbsp;&nbsp;&nbsp;After some time it boiled down to some messy data 
+wrangling within a CRM system and for the first time in maybe a couple 
+of decades I had to deal again with the so called 'programming wihout programming'.
+It is a euphimism for _you_ doing all the job of creating a system that you 
+need out of bits and pieces put in an expensive toolbox for you by a 
+craftsy (and enterpreneurial) bunch of 'programmers'. <br>The logic of this 
+funny affair is very simple: "You - they say to you - need a system that 
+would match your needs _exactly_, don't you? See! This means that you 
+need an 'extra flexible' system, that can be turned into just about anything.
+Your business is unique, we understand that. Now. Here's _your_ framework, 
+the wheels are in that corner on the right, the engine is in that big room 
+behind the small door, see? Yes, you can squeeze yourself through it, _we_ 
+tried. Here's a 100 page manual how to loose enough weight so that you 
+will be able to. Don't step on that rear fender! It will be not simple to 
+make it assume its initial shape! By the way, did you get the invoice 
+for the past five minutes of this converstation? No? We will email it to 
+you within the next ten seconds." And all things like that...
 <br><br>
+And there comes a moment, typically after manually delining a couple of 
+hundred records that you've just uploaded in 10 seconds because you clicked
+the wrong microscopic button invented by a 'graphic designer' because 'he
+thinks it looks cool'... by clicking each of these items _three times_ <br>
+And you start thinking to yourself:"Maybe programming routine tasks was 
+not such a hassle after all...?"<br>
+And then you start writing programms using the API. Don't relax, you are 
+just half the way there!<br><br>
+Later 
+ 
 
-Later.
