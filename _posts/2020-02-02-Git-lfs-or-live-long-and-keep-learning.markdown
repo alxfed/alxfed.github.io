@@ -2,7 +2,7 @@
 layout: post
 title:  "git lfs ! Or live long and keep learning"
 excerpt: "It took me a couple of years of going on my own until I finally bumped into this git-lfs thingy!"
-date:   2019-10-15  5:46 pm
+date:   2020-02-02  10:22 am
 categories: blog posts
 ---
 
