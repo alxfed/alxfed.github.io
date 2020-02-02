@@ -78,7 +78,7 @@ of which is interested in another one succeeding... __must__ be known by
 anybody who steps on their turf. Moreover, they _assume_ that you are 'one 
 of them' and you have professionally installed and maintained servers at 
 your immediate disposal and can work for days 'implementing' your side of 
-the interaction as if you have nothing else to do in your life.
+the interaction as if you have nothing else to do in your life.<br><br>
 Later 
  
 

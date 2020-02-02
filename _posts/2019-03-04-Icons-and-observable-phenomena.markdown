@@ -93,7 +93,7 @@ right, how about _stopping_ doing it? Like, right now!
 of __the same__ but for mathematicians... I will write about it some day.
 #### What was useful
 &nbsp;&nbsp;&nbsp;&nbsp;The points that were particularly useful:
-1. This Hamilton's BS mixing matices-objects and matrices-transforms is 
+1. This Hamilton's BS mixing matrices-objects and matrices-transforms is 
 just that - BS, as I always felt. It would be good to write about it 
 separately, probably in conjunction with the time dimension explanations.
 2. The real method should be much stranger than what the ancient 
