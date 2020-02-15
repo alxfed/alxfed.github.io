@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "git lfs ! Or live long and keep learning"
-excerpt: "It took me a couple of years of going on my own until I finally bumped into this git-lfs thingy!"
+excerpt: "It took me a couple of years of going on my own until I finally bumped into this git-lfs thingy! GitHub should have advertised it more, because it solves the main problem of bundling code/model with data."
 date:   2020-02-02  10:22 am
 categories: blog posts
 ---
@@ -20,6 +20,7 @@ here's a couple of links:<br><br>
 - https://git-lfs.github.com/
 - [about it on GitLab](https://docs.gitlab.com/ee/administration/lfs/manage_large_binaries_with_git_lfs.html)
 - [about it on GitHub](https://help.github.com/en/github/managing-large-files/about-storage-and-bandwidth-usage)<br>
+
 #### Afterword
 &nbsp;&nbsp;&nbsp;&nbsp;Almost immediately after I posted about this finding
 on facebook, one of the 'maintainers' of [DVC](https://dvc.org/) commented on
