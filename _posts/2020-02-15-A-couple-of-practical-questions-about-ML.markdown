@@ -21,8 +21,8 @@ is in the fact that all these groups are trying to appropriate words and combina
 and make them a part of their 'brand'. Each 'company' invents its' own 'monkey language' and writes
 a voluminous 'documentation' in it. <br>
 ### Many 'frameworks' promoting their (absolutely idiotic) terminology...
-&nbsp;&nbsp;&nbsp;&nbsp;I found that this is, probably, the most annoying aspect of everyday work
-today. Not that I haven't seen this technique of 'privatisation' of words by the so called
+&nbsp;&nbsp;&nbsp;&nbsp;I find it to be, probably, the most annoying aspect of everyday work
+Today. Not that I haven't seen this technique of 'privatisation' of words by the so called
 'schools' in Physics when I was young, but the amount of this 'inventiveness' Today surpasses
 everything I've seen before by an order of magnitude at least.
 <br><br>Later.
