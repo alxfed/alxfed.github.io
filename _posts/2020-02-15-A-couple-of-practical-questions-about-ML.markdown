@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A couple of practical questions about 'Machine Learning'"
+title:  "A couple of practical questions about 'Machine Learning'."
 excerpt: "It is more or less obvious that 'Machine Learning' (which should be properly called 'Machine Teaching') is here to stay. Now, how do we solve the problem of learning all these 'documentation' with cryptic terminology written by semi-educated half-wits?"
 date:   2020-02-15  8:41 am
 categories: blog posts
@@ -20,5 +20,9 @@ to figure out which one of them is best for your particular problem. The main tr
 is in the fact that all these groups are trying to appropriate words and combinations of words
 and make them a part of their 'brand'. Each 'company' invents its' own 'monkey language' and writes
 a voluminous 'documentation' in it. <br>
-### Many 'frameworks' promoting their (absolutely idiotic) terminology.
-&nbsp;&nbsp;&nbsp;&nbsp;I found<br><br>Later.
+### Many 'frameworks' promoting their (absolutely idiotic) terminology...
+&nbsp;&nbsp;&nbsp;&nbsp;I found that this is, probably, the most annoying aspect of everyday work
+today. Not that I haven't seen this technique of 'privatisation' of words by the so called
+'schools' in Physics when I was young, but the amount of this 'inventiveness' Today surpasses
+everything I've seen before by an order of magnitude at least.
+<br><br>Later.
