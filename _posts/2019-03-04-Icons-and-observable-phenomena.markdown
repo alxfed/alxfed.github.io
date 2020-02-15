@@ -107,6 +107,15 @@ for description of this process comes to mind immediately.
 that keeps coming to my mind over and over again. Maybe it's time to 
 write a paper about them.
 <br><br>
+#### P.S. Hans Reichebach
+&nbsp;&nbsp;&nbsp;&nbsp;And of course Hans Reichenbach in his wonderful
+book "The rise of scientific philosophy" joked every ten pages of so 
+about the habbit of 'visualisation' of the philosophers of the past.
+In case you are wondering what it is - he was talking about just that:
+creating 'icons' instead of real variables, then inventing all sorts of
+tautological 'conclusions' about the real things and phenomena based on
+the properties of these __icons__ , 'axiomatically' introduced by the
+author. Example? The 'photons' of course, what else.
 Books:<br>
 Simon L. Altmann - "Icons and Symmetries"<br> 
 Altmann - "Rotations, Quaternions and Double groups"<br>
