@@ -20,7 +20,12 @@ here's a couple of links:<br><br>
 - https://git-lfs.github.com/
 - [about it on GitLab](https://docs.gitlab.com/ee/administration/lfs/manage_large_binaries_with_git_lfs.html)
 - [about it on GitHub](https://help.github.com/en/github/managing-large-files/about-storage-and-bandwidth-usage)<br>
-
-Later 
+#### Afterword
+&nbsp;&nbsp;&nbsp;&nbsp;Almost immediately after I posted about this finding
+on facebook, one of the 'maintainers' of [DVC](https://dvc.org/) commented on
+my post and suggested their solution as a better one (for the data science)
+scenarios. I'm not sure yet. I understand why the GitHub native solution is
+good. I'm not quite sure where to put the 'extra flexibility' that makes you
+do some of the _same_ work yourself... But I will try it some day.
  
 
