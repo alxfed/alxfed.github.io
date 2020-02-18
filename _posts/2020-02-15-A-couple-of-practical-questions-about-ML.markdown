@@ -19,10 +19,21 @@ if you know what I mean. And it's even harder to experiment with several of them
 to figure out which one of them is best for your particular problem. The main tragedy, as always
 is in the fact that all these groups are trying to appropriate words and combinations of words
 and make them a part of their 'brand'. Each 'company' invents its' own 'monkey language' and writes
-a voluminous 'documentation' in it. <br>
-### Many 'frameworks' promoting their (absolutely idiotic) terminology...
-&nbsp;&nbsp;&nbsp;&nbsp;I find it to be, probably, the most annoying aspect of everyday work
+a voluminous 'documentation' in it. I find it to be, probably, the most annoying aspect of everyday work
 Today. Not that I haven't seen this technique of 'privatisation' of words by the so called
 'schools' in Physics when I was young, but the amount of this 'inventiveness' Today surpasses
-everything I've seen before by an order of magnitude at least.
+everything I've seen before by an order of magnitude at least.<br>
+### The _real_ problem of the day
+&nbsp;&nbsp;&nbsp;&nbsp;The real problem of Today is of course the analytic generalization of the
+(purely experimental) empirical knowledge obtained from all these massive amounts of data 
+readily available and transferable at almost no cost and with a very little overhead. With physics it
+was simpler: the behavior of relatively wide classes of systems could be described by relatively
+simple set of equations describing the _idealized_ (mathematical) model of physical system. Most of
+the aspects of this idealizations were/are pure postulates, like f.i. 'material point' or a 
+point-sized 'photon' in Einstein's speculation.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This will not work with the 'objects' that we finally found the way to 
+describe: language, game of chess as a whole, vision. It's more or less obvious that the 'trained'
+models are this type of description. The complexity of description is now too high to express it 
+in analytical formulas that can be further manipulated into other tautologies. So, what do we do
+now?
 <br><br>Later.
