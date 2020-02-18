@@ -33,7 +33,9 @@ the aspects of this idealizations were/are pure postulates, like f.i. 'material 
 point-sized 'photon' in Einstein's speculation.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;This will not work with the 'objects' that we finally found the way to 
 describe: language, game of chess as a whole, vision. It's more or less obvious that the 'trained'
-models are this type of description. The complexity of description is now too high to express it 
-in analytical formulas that can be further manipulated into other tautologies. So, what do we do
-now?
+models are this type of description. In a certain way it is 'meta' related to any particular 
+instance of a process: a phrase or a particular game of chess with a position of pieces on the
+board. The complexity of this meta description is now too high to express it 
+in analytical formulas that can be further manipulated into other tautologies. Formulas were for
+particular instances. So, what do we do now?
 <br><br>Later.
