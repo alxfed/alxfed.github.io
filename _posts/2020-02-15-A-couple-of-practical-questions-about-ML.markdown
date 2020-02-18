@@ -28,14 +28,17 @@ everything I've seen before by an order of magnitude at least.<br>
 (purely experimental) empirical knowledge obtained from all these massive amounts of data 
 readily available and transferable at almost no cost and with a very little overhead. With physics it
 was simpler: the behavior of relatively wide classes of systems could be described by relatively
-simple set of equations describing the _idealized_ (mathematical) model of physical system. Most of
+simple set of equations describing the _idealized_ (mathematical) model of physical system involving
+the _separable_ components that could be idealized (separately) too. Most of
 the aspects of this idealizations were/are pure postulates, like f.i. 'material point' or a 
-point-sized 'photon' in Einstein's speculation.<br>
+point-sized 'photon' in Einstein's speculation, the 'field' that exerts its' action upon a point-sized
+'particle' etc. etc.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;This will not work with the 'objects' that we finally found the way to 
 describe: language, game of chess as a whole, vision. It's more or less obvious that the 'trained'
-models are this type of description. In a certain way it is 'meta' related to any particular 
-instance of a process: a phrase or a particular game of chess with a position of pieces on the
+models are this type of _empirical_ description. In a certain way it is 'meta' related to any particular 
+instance of a process: a phrase from a book or a particular game of chess with a position of pieces on the
 board. The complexity of this meta description is now too high to express it 
-in analytical formulas that can be further manipulated into other tautologies. Formulas were for
-particular instances. So, what do we do now?
+in any number of analytical formulas that can be further manipulated into other tautologies. 
+Formulas were for particular instances of systems that were decomposabe, these phenomena are 'measured'
+as a whole. So, what do we do now? 
 <br><br>Later.
