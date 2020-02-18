@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A couple of practical questions about 'Machine Learning'."
-excerpt: "It is more or less obvious that 'Machine Learning' (which should be properly called 'Machine Teaching') is here to stay. Now, how do we solve the problem of learning all these 'documentation' with cryptic terminology written by semi-educated half-wits?"
+excerpt: "It is more or less obvious that 'Machine Learning' (which should be properly called 'Machine Teaching') is here to stay. Now, how do we solve the problem of understanding what these models have learned?"
 date:   2020-02-15  8:41 am
 categories: blog posts
 ---
