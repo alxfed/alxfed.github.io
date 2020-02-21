@@ -16,7 +16,7 @@ Now, as it turns out there is this **git-lfs** 'extension' for git that
 had been designed a long time ago for just that. Duh!<br><br>
 #### Where to find
 &nbsp;&nbsp;&nbsp;&nbsp;I will write more about it later, but for now 
-here's a couple of links:<br><br>
+here's a couple of links:<br>
 - [git-lfs.github.com](https://git-lfs.github.com/)
 - [about it on GitLab](https://docs.gitlab.com/ee/administration/lfs/manage_large_binaries_with_git_lfs.html)
 - [about it on GitHub](https://help.github.com/en/github/managing-large-files/about-storage-and-bandwidth-usage)<br>
