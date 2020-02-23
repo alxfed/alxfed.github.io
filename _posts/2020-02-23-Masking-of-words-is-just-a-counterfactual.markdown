@@ -17,10 +17,10 @@ what it is/means."
 What are these two things brought to our attention?
 #### 1. The so called 'Transformer' is just a 'Transmission channel' of Shannon / Fano... or a simple chain of multiple encoders and decoders with one or more intermediate states.
 &nbsp;&nbsp;&nbsp;&nbsp;This is a relatively simple idea, so many Ph.D. degrees have 
-been sucked out of this finger that I'm not even talking about it. It is worth discussion
-only in the context of choosing a 'common' language for human-machine interactions. The one
-that would be equally meaningful for machines and humans and using it as a 'common denominator'
-for mutual understanding.
+been sucked out of this finger over the years that I'm not even talking about it.
+It is worth discussion only in the context of choosing a 'common' language for 
+human-machine interactions. The one that would be equally meaningful and understandable 
+for machines and humans who will be using it as a 'common denominator' for mutual 'understanding'.
 #### 2. The so called bert 'BERT' is a probabilistic verification of multiple counterfactual hypothesis about a phrase.
 &nbsp;&nbsp;&nbsp;&nbsp;Yes. What exactly is this 'masking' of a word in a phrase? It is a
 'counterfactual'! It is a counterfactual in a meta-language of course, but counterfactual
