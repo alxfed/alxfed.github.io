@@ -15,7 +15,7 @@ what it is/means."
 ### What do these 'new' tricks in machine processing of language _really_ mean?
 &nbsp;&nbsp;&nbsp;&nbsp;Let's put our 'naked eye' aside and wear our microscope glasses.
 What are these two things brought to our attention?
-#### 1. The so called 'Transformer' is just a 'Transmission channel' of Shannon / Fano... or a simple chain of multiple encoders and decoders with one or more intermediate states.
+#### 1. The so called 'Transformer' is just a 'Transmission channel' of Shannon / Fano... or a simple chain of encoders and decoders with one or more intermediate states.
 &nbsp;&nbsp;&nbsp;&nbsp;This is a relatively simple idea, so many Ph.D. degrees have 
 been sucked out of this finger over the years that I'm not even talking about it.
 It is worth discussion only in the context of choosing a 'common' language for 
