@@ -32,9 +32,9 @@ We typically need to start the training all over again if we add something to a 
 neural network or learning system. Why? Because of the non-linearity, of course! Moreover,
 if we are using the 'variation of eigenfunctions' method of training the added part of the
 network may change them altogether. It's like adding (or dropping) a couple of members of the
-equation. It is not a 'changed' equation, it's a totally new equation. On top of that the
+equation. It is not a 'changed' equation, it's a totally _new_ equation. On top of that the
 'coordinate system' of old eigenfunctions may or may not be able to develop 'projections' 
-onto the new coordinate system of new eigenfunctions.<br>
+onto the new coordinate system of new eigenfunctions.<br><br>
 ### Explanation.
 &nbsp;&nbsp;&nbsp;&nbsp;The main idea of usefullness of Fourier transform comes from the fact that if 
 you substitute an eigenfunction into a differential equation it is satisfied (by
