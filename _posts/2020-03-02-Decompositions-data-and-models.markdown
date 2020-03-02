@@ -20,9 +20,10 @@ multiple of the eigenfunction has the same effect, the equation is satisfied. Th
 why not 'decompose' the 'force', acting upon the system into a _linear_ combination
 of eigenfunctions and watch their evolution separately, right? We will see 'resonances'
 of 'harmonics' and all that stuff. That's how decomposition is usefull.
-- So in this scheme, which is just a continuation of the idea of finding a solution
-of differential equation with initial conditions by using the 'undetermined 
-coefficients', of more generally 'variation of parameters' (Euler, Lagrange, Duhamel or whoever) we seriously rely upon the superposition
-principle. And that's exactly why the Fourier series is a sum (superposition) of
-terms.
+- So in this scheme, which is just a continuation of the idea of finding a particular 
+solution of differential equation with initial conditions by using the 'undetermined 
+coefficients', of more generally, for a 'force' on the right, a 'variation of 
+parameters' (Euler, Lagrange, Duhamel or whoever) we seriously rely upon the 
+superposition principle. And that's exactly why the Fourier series is a sum 
+(superposition) of terms.
 <br><br>Later.
