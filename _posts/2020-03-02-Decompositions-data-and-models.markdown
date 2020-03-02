@@ -7,8 +7,8 @@ categories: blog posts
 ---
 ### "Norbert Wiener did a great job." 
 &nbsp;&nbsp;&nbsp;&nbsp;He started it in the 30-s by popularizing the "Generalized
- harmonic analysis", then, of course, wrote the bible of all 20-th century electrical engineers
- "Extrapolation, Interpolation and Smoothing". Where are we now with all that?
+harmonic analysis", then, of course, wrote the bible of all 20-th century electrical engineers
+"Extrapolation, Interpolation and Smoothing". Where are we now with all that?
 ### The analogy between the Fourier Transform and Models/Learning
 &nbsp;&nbsp;&nbsp;&nbsp;I had this blurred understanding for quite a while that
 "I've seen it all before" when I kept looking through the achievements of Machine
@@ -19,26 +19,31 @@ Then, when you apply other input to the 'trained' system during the 'inference' 
 to a 'stationary state' achieved during the training. The system that is being trained compounds
 information from the input data by accumulation of 'effects' (caused by 'causes') in the
 'eigenfunctions' of the learning system. In this way it's like a 'spectrometer' with a comb of
-band-pass filters or resonant LC contours or interference of different 'rays' in a hologram. The accumulation of 'knowledge' during 'learning'
-is _non-linear_, the signal changes the properties of the 'resonant circuit' that is excites.
+band-pass filters or resonant LC contours or interference of different 'rays' in a hologram.
+The accumulation of 'knowledge' during 'learning' is, of course, _non-linear_, - 
+the signal changes the properties of the 'resonant circuit' that is 'excites'.
 2. There are two possible mechanisms of accumulation of 'knowledge'/changes in the system: in the 
-relative 'weights' of eigenfunctions and in changes of the eigenfunctions themselves. Changes in
-weights would be purely 'spectral' or Fourier-like type of influence, while changes in the 'shape' of eigenfunctions
-themselves is a different, non-Fourier decomposition and that's what we will be talking about
-shortly.
-3. The main problem of 'trained systems' are, of course, their extensions and combinations. 
+relative 'weights' of 'excited' eigenfunctions and in changes of the eigenfunctions themselves. 
+Changes in weights would be purely 'spectral' or Fourier-like type of influence, while changes
+in the 'shape' of eigenfunctions themselves is a different, non-Fourier decomposition and that's 
+what we will be talking about shortly. But in any case the analogy with integration/convolution 
+of an input function with a sine harmonic is obviously very similar to the 'training'.
+3. The main problem of 'trained systems' though, are their extensions and combinations. 
 We typically need to start 'training' all over again if we add something to a 'taught' 
 neural network or learning system. Why? Because of the non-linearity, of course! Moreover,
 if we are using the 'variation of eigenfunctions' method of training the added part of the
 network may change them altogether. It's like adding (or dropping) a couple of members of the
-equation. It is not a 'changed' equation, it's a totally _new_ equation. On top of that the
-'coordinate system' of old eigenfunctions may or may not be able to develop 'projections' 
-onto the new coordinate system of new eigenfunctions.
+equation. It is not a 'changed' equation, it's a totally _new_ equation with new eigenfunctions.
+On top of that the 'coordinate system' of old eigenfunctions may or may not be able to develop 
+'projections' onto the new coordinate system of new eigenfunctions. In this aspect 'training' is
+_different_ from Fourier decomposition, there everything is linear and hence - additive and scalable.
 4. Also, talking about the changes of functions for decompositions, I've had this idea in 
 my head for quite a while, that sequences of random numbers are a perfect set of 'ortho-normal'
 functions necessary for decompositions. Now, if you are about to change one of the functions
 in your 'basis', make sure that the new one is 'normal' to all the rest, and it's a condition
-that is hard to satisfy with usual functions, but simple to satisfy with these random sequences.<br>
+that is hard to satisfy with usual functions, but simple to satisfy with these random sequences.
+But this is a method of finding 'orthogonal' functions quite different from the sine harmonics
+of the same frequency or the natural numbers counts of an interval in Rademacher method<br>
 
 ### Explanation.
 &nbsp;&nbsp;&nbsp;&nbsp;The main idea of usefullness of Fourier transform comes from the fact that if 
