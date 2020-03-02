@@ -26,7 +26,7 @@ is _non-linear_, the signal changes the properties of the resonant circuit that 
 relative 'weights' of eigenfunctions and in changes of the eigenfunctions themselves. Changes in
 weights would be purely 'spectral' or Fourier-like type of influence, while changes in the 'shape' of eigenfunctions
 themselves is a different, non-Fourier decomposition and that's what we will be talking about
-in a short while.
+in shortly.
 3. The main problem of 'trained systems' are, of course, their extensions and combinations. 
 We typically need to start the training all over again if we add something to a 'taught' 
 neural network or learning system. Why? Because of the non-linearity, of course! Moreover,
@@ -34,7 +34,13 @@ if we are using the 'variation of eigenfunctions' method of training the added p
 network may change them altogether. It's like adding (or dropping) a couple of members of the
 equation. It is not a 'changed' equation, it's a totally _new_ equation. On top of that the
 'coordinate system' of old eigenfunctions may or may not be able to develop 'projections' 
-onto the new coordinate system of new eigenfunctions.<br><br>
+onto the new coordinate system of new eigenfunctions.
+4. Also, talking about the changes of functions for decompositions, I've had this idea in 
+my head for quite a while, that sequences of random numbers are a perfect set of 'ortho-normal'
+functions necessary for decompositions. Now, if you are about to change one of the functions
+in your 'basis', make sure that the new one is 'normal' to all the rest, and it's a condition
+that is hard to satisfy with usual functions, but simple to satisfy with these random sequences.<br>
+
 ### Explanation.
 &nbsp;&nbsp;&nbsp;&nbsp;The main idea of usefullness of Fourier transform comes from the fact that if 
 you substitute an eigenfunction into a differential equation it is satisfied (by
