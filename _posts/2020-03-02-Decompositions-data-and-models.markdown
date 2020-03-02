@@ -22,7 +22,7 @@ information from the input data by accumulation of 'effects' (caused by 'causes'
 band-pass filters or resonant LC contours or interference of different 'rays' in a hologram.
 The accumulation of 'knowledge' during 'learning' is, of course, _non-linear_, - 
 the signal changes the properties of the 'resonant circuit' that it 'excites'.
-2. (or 1') If you noticed I made (in the same way as many of them do) a 'shuffle' in this card
+2. (or 1') If you noticed I made (in the same way as many of them do) a 'shuffle' in this card cheat
 hocus pocus. I started talking about the eigenfunctions which are _states_ of the system, then
 said that information accumulates _in them_. This is not true, the states of the system are
 transient, they come (when you input something to the system) and go (when you remove this
@@ -46,7 +46,7 @@ On top of that the 'coordinate system' of old eigenfunctions may or may not be a
 'projections' onto the new coordinate system of new eigenfunctions. In this aspect 'training' is
 _different_ from Fourier decomposition, there everything is linear and hence - additive and scalable.
 5. Also, talking about the changes of functions for decompositions, I've had this idea in 
-my head for quite a while, that sequences of random numbers are a perfect set of 'ortho-normal'
+my head for quite a while, that sequences of random numbers are a perfect set of 'orthonormal'
 functions necessary for decompositions. Now, if you are about to change one of the functions
 in your 'basis', make sure that the new one is 'normal' to all the rest, and it's a condition
 that is hard to satisfy with usual functions, but simple to satisfy with these random sequences.
