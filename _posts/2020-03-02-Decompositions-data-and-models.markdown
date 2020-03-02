@@ -21,15 +21,23 @@ information from the input data by accumulation of 'effects' (caused by 'causes'
 'eigenfunctions' of the learning system. In this way it's like a 'spectrometer' with a comb of
 band-pass filters or resonant LC contours or interference of different 'rays' in a hologram.
 The accumulation of 'knowledge' during 'learning' is, of course, _non-linear_, - 
-the signal changes the properties of the 'resonant circuit' that is 'excites'.
-2. There are two possible mechanisms of accumulation of 'knowledge'/changes in the system: in the 
+the signal changes the properties of the 'resonant circuit' that it 'excites'.
+2. (or 1') If you noticed I made (in the same way as many of them do) a 'shuffle' in this card
+hocus pocus. I started talking about the eigenfunctions which are _states_ of the system, then
+said that information accumulates _in them_. This is not true, the states of the system are
+transient, they come (when you input something to the system) and go (when you remove this
+input), but the properties of the system can change. So the real way of saying what is happening
+in the system would be: when an eigenfunction is 'excited' by the input this 'excitation' can
+change the properties of the system so that the relative weight of this eigenfunction or its' 'shape'
+will be different when it will be excited next time. So...
+3. There are two possible mechanisms of accumulation of 'knowledge'/changes in the system: in the 
 relative 'weights' of 'excited' eigenfunctions and in changes of the eigenfunctions themselves. 
 Changes in weights would be purely 'spectral' or Fourier-like type of influence, while changes
 in the 'shape' of eigenfunctions themselves is a different, non-Fourier decomposition and that's 
 what we will be talking about shortly. But in any case the analogy with integration/convolution 
 of an input function with a sine harmonic is obviously very similar to the 'training'.
-3. The main problem of 'trained systems' though, are their extensions and combinations. 
-We typically need to start 'training' all over again if we add something to a 'taught' 
+4. The main problem of 'trained systems' though are their extensions and combinations. 
+We typically need to restart 'training' all over again if we add something to a 'taught' 
 neural network or learning system. Why? Because of the non-linearity, of course! Moreover,
 if we are using the 'variation of eigenfunctions' method of training the added part of the
 network may change them altogether. It's like adding (or dropping) a couple of members of the
@@ -37,7 +45,7 @@ equation. It is not a 'changed' equation, it's a totally _new_ equation with new
 On top of that the 'coordinate system' of old eigenfunctions may or may not be able to develop 
 'projections' onto the new coordinate system of new eigenfunctions. In this aspect 'training' is
 _different_ from Fourier decomposition, there everything is linear and hence - additive and scalable.
-4. Also, talking about the changes of functions for decompositions, I've had this idea in 
+5. Also, talking about the changes of functions for decompositions, I've had this idea in 
 my head for quite a while, that sequences of random numbers are a perfect set of 'ortho-normal'
 functions necessary for decompositions. Now, if you are about to change one of the functions
 in your 'basis', make sure that the new one is 'normal' to all the rest, and it's a condition
