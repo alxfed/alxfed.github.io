@@ -6,7 +6,6 @@ date:   2020-03-02  7:50 am
 categories: blog posts
 ---
 ### "Norbert Wiener did a great job." 
-(Sorry for the 'Trump' joke, I couldn't help it)<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;He started it in the 30-s by popularizing the "Generalized
  harmonic analysis", then, of course, wrote the bible of all 20-th century electrical engineers
  "Extrapolation, Interpolation and Smoothing". Where are we now with all that?
