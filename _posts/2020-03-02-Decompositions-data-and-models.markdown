@@ -34,8 +34,8 @@ will be different when it will be excited next time. So...
 relative 'weights' of 'excited' eigenfunctions and in changes of the eigenfunctions themselves. 
 Changes in weights would be purely 'spectral' or Fourier-like type of influence, while changes
 in the 'shape' of eigenfunctions themselves is a different, non-Fourier decomposition and that's 
-what we will be talking about shortly. But in any case the analogy with integration/convolution 
-of an input function with a sine harmonic is obviously very similar to the 'training'.
+what we will be talking about shortly. But in any case the analogy is with integration/convolution 
+of an input function with a sine harmonic which is obviously very similar to the 'training'.
 4. The main problem of 'trained systems' though are their extensions and combinations. 
 We typically need to restart 'training' all over again if we add something to a 'taught' 
 neural network or learning system. Why? Because of the non-linearity, of course! Moreover,
