@@ -66,5 +66,5 @@ solution of differential equation with initial conditions by using the 'undeterm
 coefficients', of more generally, for a 'force' on the right, a 'variation of 
 parameters' (Euler, Lagrange, Duhamel or whoever) we seriously rely upon the 
 superposition principle. And that's exactly why the Fourier series is a sum 
-(superposition) of terms.<br><br>
-<br><br>Later.
+(superposition) of terms.<br>
+<br>Later.
