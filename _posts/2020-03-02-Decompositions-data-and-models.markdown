@@ -60,7 +60,7 @@ definintion of an eigenfunction); if the equation is linear a substitution of an
 multiple of the eigenfunction has the same effect, the equation is satisfied. Then
 why not 'decompose' the 'force', acting upon the system into a _linear_ combination
 of eigenfunctions and watch their evolution separately, right? We will see 'resonances'
-of 'harmonics' and all that stuff. That's how decomposition is usefull.<br><br>
+of 'harmonics' and all that stuff. That's how decomposition is useful.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;So in this scheme, which is just a continuation of the idea of finding a particular 
 solution of differential equation with initial conditions by using the 'undetermined 
 coefficients', of more generally, for a 'force' on the right, a 'variation of 
