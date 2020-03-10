@@ -60,11 +60,17 @@ definintion of an eigenfunction); if the equation is linear a substitution of an
 multiple of the eigenfunction has the same effect, the equation is satisfied. Then
 why not 'decompose' the 'force', acting upon the system into a _linear_ combination
 of eigenfunctions and watch their evolution separately, right? We will see 'resonances'
-of 'harmonics' and all that stuff. That's how decomposition is useful.<br><br>
+of 'harmonics' and all that stuff. That's how decomposition is useful.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;So in this scheme, which is just a continuation of the idea of finding a particular 
 solution of differential equation with initial conditions by using the 'undetermined 
 coefficients', of more generally, for a 'force' on the right, a 'variation of 
 parameters' (Euler, Lagrange, Duhamel or whoever) we seriously rely upon the 
 superposition principle. And that's exactly why the Fourier series is a sum 
 (superposition) of terms.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The other property that is being used is the translational invariance
+of linear operators, which, if you think about it clearly, is a 'superposition' principle of sorts
+too, it describes the behavior of the function of a sum or arguments, in this way there is a 
+'superposition' of the initial value of the argument and the 'additional' part of the argument.
+As we all know for linear differential operators of wave equation this leads to a function that
+is a product of functions with these parts of the value.<br>
 <br>Later.
