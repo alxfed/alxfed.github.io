@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Ontology."
+excerpt: "You are probably watching the hand of the prestidigitator that is showing you something, not the other hand that is reaching for the back pocket where the rabbit is..."
+date:   2020-03-11  8:11 am
+categories: blog posts
+---
+### Ontology is a good enough word, don't spoil it. 
+&nbsp;&nbsp;&nbsp;&nbsp;Since the time of Aristotle the word 'Ontology' meant
+a very particular thing. He argued that if the Artist 'sees' a shape of a
+statue in a piece of wood, it means that this shape and the statue itself
+'exists' before it has been carved. On and on he goes to the point where he
+declares that this 'shape' is a substance that exists perpetually without
+change. And, of course, *__Ontology__* will be the science dealing with the
+"ultimate grounds of being". More about it in a very popular way in (1).<br><br>
+#### Bibliography:
+1. __Hans Reichenbach__, "THE RISE of _Scientific Philosophy_", 
+(University of California Press, 1968), p.12.<br>
+
+<br>Later.
