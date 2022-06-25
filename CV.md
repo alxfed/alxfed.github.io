@@ -3,7 +3,7 @@ layout: page
 title: CV/Resume
 permalink: /cv/
 ---
-[Download my resume in .pdf](/docs/Alex_Fedotov_Data_Scientist_2019.pdf)<br>
+[Download my resume in .pdf](/docs/alexander_fedotov_data_scientist_2022.pdf)<br>
 [Download my PhD and Education credentials in .pdf](/docs/PhD_and_Education_Certification.pdf)<br><br>
 January, 2017 - present
 

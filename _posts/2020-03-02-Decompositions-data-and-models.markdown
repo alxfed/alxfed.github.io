@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Decompositions of Data and Models."
-excerpt: "In the same way as popularization of Fourier transform and operational calculus by Weiner changed the technology of the 20-th century the 21-st century is calling for another type of decomposition techniques that will help solve many similar problems."
+excerpt: "In the same way as popularization of Fourier transform and operational calculus by Wiener changed the technology of the 20-th century the 21-st century is calling for another type of decomposition techniques that will help solve many similar problems."
 date:   2020-03-02  7:50 am
 categories: blog posts
 ---
