@@ -35,4 +35,4 @@ new profession every time. Well... I though about it myself, I considered severa
 by the ChatGPT, Bard, Claude (all in vain by the way), I finally came up with my own version, which 
 my wife approved. The name of my next profession will be:<br>
 <h1 align="center">AI Dialogue Facilitator</h1>
-<br>I will explain why to those of you who doesn't understand... a little bit later.
+<br>I will explain why to those of you who don't understand... a little bit later.
