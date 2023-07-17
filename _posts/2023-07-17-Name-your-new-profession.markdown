@@ -28,9 +28,7 @@ out, not only you have to change profession several times, but (!!!):
 &nbsp;&nbsp;&nbsp;&nbsp;Yes! It looks like going forward you will have to invent a name for your 
 new profession every time. Well... I though about it myself, I considered several options offered 
 by the ChatGPT, Bard, Claude (all in vain by the way), I finally came up with my own version, which 
-my wife approved. The name of my next profession will be:<br><br>
-<p align="center">
-# AI Dialogue Facilitator
-</p>
+my wife approved. The name of my next profession will be:<br>
+<h1 align="center">AI Dialogue Facilitator</h1>
 <br>
 <br>I will explain why later.
