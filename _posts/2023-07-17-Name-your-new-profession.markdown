@@ -31,8 +31,8 @@ all-enveloping 'wisdom' based on misappropriated knowledge of the humankind. So,
 out, not only you have to change profession several times, but (!!!):
 ### You have to invent the name of your next profession! 
 &nbsp;&nbsp;&nbsp;&nbsp;Yes! It looks like going forward you will have to invent a name for your 
-new profession every time. Well... I though about it myself, I considered several options offered 
-by the ChatGPT, Bard, Claude (all in vain by the way), I finally came up with my own version, which 
+new profession every time. Well... I though about it myself, I considered the multiple options offered 
+by ChatGPT, Bard, Claude (all in vain by the way), I finally came up with my own version, which 
 my wife approved. The name of my next profession will be:<br>
 <h1 align="center">AI Dialogue Facilitator</h1>
 <br>I will explain why to those of you who don't understand... a little bit later.
