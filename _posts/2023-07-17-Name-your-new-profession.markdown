@@ -7,7 +7,7 @@ categories: blog posts
 ---
 ### "You will have to change your profession 5 times..." 
 &nbsp;&nbsp;&nbsp;&nbsp;Once upon a time when I was a teenager somebody said something
-about the 'future of jobs' in a context of such rapid progress around us of something
+about the 'future of jobs' in a context of such rapid progress around us... 
 and I realized that probably I will have to change profession over the course of my life...
 maybe even several times... My wife says that in her high school class a teacher even said
 to them: "Kids, you will have to change your profession 5 times in your lifetime." - or 
