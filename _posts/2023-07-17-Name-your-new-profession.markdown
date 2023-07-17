@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Name your new profession..."
-excerpt: "In the same way as popularization of Fourier transform and operational calculus by Wiener changed the technology of the 20-th century the 21-st century is calling for another type of decomposition techniques that will help solve many similar problems."
+excerpt: "...as it turns out, not only you have to change profession several times, but _You_ have to invent the name of your next profession yourself... "
 date:   2023-07-17  7:50 am
 categories: blog posts
 ---
