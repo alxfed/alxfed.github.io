@@ -20,9 +20,12 @@ all the "high-tech world" and its' hierarchies... Time to move on! Decision made
 requires a miniscule detail... the name of my future profession/occupation. It's hard to expect 
 this name to be invented by the 'founding fathers' of Large Language Models and 'AI startups', 
 most of them (besides a handful) do not possess the necessary level of mental development to 
-invent a term of this degree of generality, the "handful" is busy with working really hard. 
+invent a term of this degree of generality, the "handful" is busy with working really hard on what they want. 
 The working name for this profession that the daring programmers have assigned to themselves was 
-'prompt engineer', which I consider to be technical, demeaning and offensive. So, as it turns
+'prompt engineer', which I consider to be technical, demeaning and very offensive 'name' for a person 
+who possesses the ability to come up with the methodologically, philosiphically and linguistically 'right' 
+questions and elucidate the vague and contradictory responses of the 'AI' for human consumers of its' 
+all-enveloping 'wisdom' based on misappropriated knowledge of the humankind. So, as it turns
 out, not only you have to change profession several times, but (!!!):
 ### You have to invent the name of your next profession! 
 &nbsp;&nbsp;&nbsp;&nbsp;Yes! It looks like going forward you will have to invent a name for your 
@@ -31,4 +34,4 @@ by the ChatGPT, Bard, Claude (all in vain by the way), I finally came up with my
 my wife approved. The name of my next profession will be:<br>
 <h1 align="center">AI Dialogue Facilitator</h1>
 <br>
-<br>I will explain why later.
+<br>I will explain why to those of you who doesn't understand... a little bit later.
