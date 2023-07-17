@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a AI Dialogue Facilitator<br>
+I'm an AI Dialogue Facilitator<br>
 Data Scientist since 1978, Ph.D. in Physics and Mathematics since 1989.<br>
 Drop me a line if you want me to participate in yours.<br><br>
 {% include lib/mathjax.html %}
