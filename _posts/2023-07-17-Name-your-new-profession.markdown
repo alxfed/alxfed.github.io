@@ -31,8 +31,16 @@ all-enveloping 'wisdom' based on misappropriated knowledge of the humankind. So,
 out, not only you have to change profession several times, but (!!!):
 ### You have to invent the name of your next profession! 
 &nbsp;&nbsp;&nbsp;&nbsp;Yes! It looks like going forward you will have to invent a name for your 
-new profession every time. Well... I though about it myself, I considered the multiple options offered 
-by ChatGPT, Bard, Claude (all in vain by the way), I finally came up with my own version, which 
+new profession yourself... every time. Well... I though about it myself, I considered the multiple 
+options offered by ChatGPT, Bard, Claude (all in vain by the way), I finally came up with my own version, which 
 my wife approved. The name of my next profession will be:<br>
 <h1 align="center">AI Dialogue Facilitator</h1>
-<br>I will explain why to those of you who don't understand... a little bit later.
+<br>AI Dialog Facilitator
+
+The AI Dialog Facilitator does the following:
+- Formulates tasks for the AI model(s) used by the company, ensuring a reasonable expectation of success.
+- Collects and organizes materials and data to provide descriptive context and documented precedents for interactions with the company's AI.
+- Recommends the appropriate form of interaction with AI for each task, such as one-on-one dialogue, group conversation with AI, or multilateral conversation involving multiple copies of AI with adversarial instructions and one or more humans.
+- Sets up and moderates the course of all these types of interactions, documenting the stages of conversations, AI responses, and momentary decisions made by the human participants.
+
+The AI Dialog Facilitator reports directly to the CEO, President, or Chairman of the board.
