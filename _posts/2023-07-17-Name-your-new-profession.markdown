@@ -35,7 +35,7 @@ new profession yourself... every time. Well... I though about it myself, I consi
 options offered by ChatGPT, Bard, Claude (all in vain by the way), I finally came up with my own version, which 
 my wife approved. The name of my next profession will be:<br>
 <h1 align="center">AI Dialogue Facilitator</h1>
-<br>The AI Dialog Facilitator does the following:
+The AI Dialog Facilitator performs the following tasks:
 - Formulates tasks for the AI model(s) used by the company, ensuring a reasonable expectation of success.
 - Collects and organizes materials and data to provide descriptive context and documented precedents for interactions with the company's AI.
 - Recommends the appropriate form of interaction with AI for each task, such as one-on-one dialogue, group conversation with AI, or multilateral conversation involving multiple copies of AI with adversarial instructions and one or more humans.
