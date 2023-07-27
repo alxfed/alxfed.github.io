@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm an AI Dialogue Facilitator<br>
 Data Scientist since 1978, Ph.D. in Physics and Mathematics since 1989.<br>
-Drop me a line if you want me to participate in yours.<br><br>
+Drop me a line if you want me to participate in your project.<br><br>
 {% include lib/mathjax.html %}
 
 When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are <br><br>

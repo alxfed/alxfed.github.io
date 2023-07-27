@@ -11,4 +11,4 @@ subtitle: "or who am I."
 <br><br>
 I'm an AI Dialogue Facilitator<br>
 Data Scientist since 1978, Ph.D. in Physics and Mathematics since 1989.<br>
-Drop me a line if you want me to participate in yours.
+Drop me a line if you want me to participate in your project.
