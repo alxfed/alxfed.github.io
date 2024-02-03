@@ -3,9 +3,27 @@ layout: page
 title: CV/Resume
 permalink: /cv/
 ---
-[Download my resume in .pdf](/docs/alexander_fedotov_data_scientist_2022.pdf)<br>
+[Download my resume in .pdf](/docs/Alexander_Fedotov_AI_Data_Scientist_2024.pdf)<br>
 [Download my PhD and Education credentials in .pdf](/docs/PhD_and_Education_Certification.pdf)<br><br>
-January, 2017 - present
+November 2022 - present
+
+__*AI Dialogue Facilitator / Data scientist / Data Analyst; independent contractor.*__
+
+As an AI Dialogue Facilitator I engage with AI on behalf of a client. I select the most suitable models, methods of interaction, and implement necessary software tools. Subsequently, together with the customer I lead the dialogue, interpret and communicate interim outcomes, and iterate the process as needed to attain a concrete outcome.
+<br><br><br>
+### Game Insight, UAB
+April 2020 - November 2022
+
+__*Chief Data scientist / Data Analyst; independent contractor.*__
+
+Detailed achievements in this position:
+- Developed a mathematical foundation for the analysis of Correlated Sequences, implemented the code and models, tested it on standard data sets and achieved state of the art or higher results (trade secrets of the company);
+- Launched on the Company infrastructure the Ax.dev Experimentation Platform for Bayesian Optimization, (developed by Meta platforms (former facebook Inc.) and conducted numerous online, online-offline and multi-objective experiments with modications of Company's games. On this setup conducted 'interventions' (collection of counterfactual data) in order to nd causal relationships and achieve  explainability. The micro-service is built on FastAPI, APScheduler, asyncio and uses Airflow as a secondary sub-service;
+- Set up and used the AWS infrastructure of the Company (SageMaker Studio, SageMaker, Athena, Glue, PySpark apllications) for Machine Learning, now I'm migrating to Databricks;
+- Implemented (Athena, SQL, Dask) multiple data extraction pipelines from a petabyte size Data Warehouse of the company to the data sets that were used by me for machine learning;
+- Acquired a hands-on experience of working with, AWS RedShift cluster because the main DWH of the company is built on it. The company maintained around a dozen mobile games with several million of active users each.
+<br><br><br>
+January, 2017 - 2020
 
 __*Data scientist / Data Analyst / Data engineer/ Data programmer; independent contractor.*__
 
