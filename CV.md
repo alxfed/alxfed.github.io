@@ -24,6 +24,7 @@ Detailed achievements in this position:
 - Acquired a hands-on experience of working with, AWS RedShift cluster because the main DWH of the company is built on it. The company maintained around a dozen mobile games with several million of active users each.
 <br><br><br>
 
+
 January 2017 - 2020
 
 __*Data scientist / Data Analyst / Data engineer/ Data programmer; independent contractor.*__
