@@ -14,4 +14,11 @@ categories: blog posts
     I lead the dialogue, interpret and communicate interim outcomes, and 
     iterate the process as needed to attain a concrete outcome.
 </pre>
-&nbsp;&nbsp;&nbsp;&nbsp;This is how it happens. Also, it is important to explain to the client from the very beginning, that AI Dialog Facilitator reports directly to the CEO, President, or Chairman of the board. They need to know the results first.
+&nbsp;&nbsp;&nbsp;&nbsp;AI Dialog Facilitator performs the following tasks:
+* Formulates tasks for the AI model(s) used by the company, ensuring a reasonable expectation of success.
+* Collects and organizes materials and data to provide descriptive context and documented precedents for interactions with the company’s AI.
+* Recommends the appropriate form of interaction with AI for each task, such as one-on-one dialogue, group conversation with AI, or multilateral conversation involving multiple copies of AI with adversarial instructions and one or more humans.
+* Sets up and moderates the course of all these types of interactions, documenting the stages of conversations, AI responses, and momentary decisions made by the human participants.
+The AI Dialog Facilitator reports directly to the CEO, President, or Chairman of the board.
+
+This is how it happens. 
