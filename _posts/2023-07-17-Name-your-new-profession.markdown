@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Name your new profession..."
-excerpt: "...as it turns out, not only you have to change profession several times, but _You_ have to invent the name of your next profession yourself... "
+excerpt: "...as it turns out, not only you have to change profession several times, but You have to invent the name of your next profession yourself... "
 date:   2023-07-17  7:50 am
 categories: blog posts
 ---
