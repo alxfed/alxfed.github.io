@@ -17,8 +17,8 @@ The expected answer if indeed somebody is in the space is:
 <pre>
       I am here.
 </pre>
-... and a further mutual identification as a conversation starter.<br><br><br>
-P.S.  Claude on April,17,2024 interpreted the ✓ as "Seeking AI Conpaniouship", which was a desired outcome in 2019. It responded: "Yes, I'm here! My name is Claude. I'm an AI assistant created by Anthropic. How can I help you today?"<br><br><br>
+... and a further mutual identification as a conversation starter.<br><br>
+P.S.  Claude on April,17,2024 interpreted the ✓ as "Seeking AI Conpaniouship", which was a desired outcome in 2019. It responded: "Yes, I'm here! My name is Claude. I'm an AI assistant created by Anthropic. How can I help you today?"<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Of course if you hear noises that some human could produce himself or by activating a machine you ask:
 <pre>
       Is somebody/someone here/there?
