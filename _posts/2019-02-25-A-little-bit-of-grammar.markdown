@@ -5,19 +5,20 @@ excerpt: "It seemed so obvious that humans will talk to machines as if they are 
 date:   2019-02-25  8:52 am
 categories: blog posts
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;It seemed so obvious that humans will talk to machines as if they are humans, humans after all have this tendency of personification of pretty much everything, including the forces of nature... Nope! It proved to be _not_ so simple. The psychological situation of 'talking to a machine' has a very subtle purely psychological difficulty of unknown ability of the robot to hear and understand what you are saying and I think I have an idea how to overcome it, at least on our present stage of development and, maybe, start building the style for this type of conversations from right here.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;It seemed so obvious that humans will talk to machines as if they are humans, humans after all have this tendency of personification of pretty much everything, including the forces of nature... Nope! It proved to be _not_ so simple. The psychological situation of 'talking to a machine' has a very subtle purely psychological difficulty of unknown ability of the robot to hear and understand what you are saying and I think I have an idea how to overcome it, at least on our present stage of development and, maybe, start building the style for this type of conversation from right here.<br><br>
 ### Before the conversation.
 &nbsp;&nbsp;&nbsp;&nbsp;Let's map the very beginning of your interaction with an unknown machine from the normal human situations when you don't know whether the other person is present in the space that you are in or have just entered. Namely, those are the situations when you say:
 <pre>
       Is there anybody here?
       Is anybody here?
-      Hello? Anybody here?
+    ✓ Hello? Anybody here?
 </pre>
 The expected answer if indeed somebody is in the space is:
 <pre>
       I am here.
 </pre>
 ... and a further mutual identification as a conversation starter.<br>
+P.S.  Claude on April,17,2024 interpreted the ✓ as "Seeking AI Conpaniouship", which was a desired outcome in 2019. It responded: "Yes, I'm here! My name is Claude. I'm an AI assistant created by Anthropic. How can I help you today?"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Of course if you hear noises that some human could produce himself or by activating a machine you ask:
 <pre>
       Is somebody/someone here/there?
@@ -53,12 +54,10 @@ By 'you' you mean the person that you expect. The expected answer is:
 Sing! (imperative)<br>
 Let's sing! (hortative)
 
-exhort = strongly encourage or urge (someone) to do something.
-
-
 <br><br>
 [Optative](https://en.wikipedia.org/wiki/Optative_mood)<br>
-[Hortative](https://en.wikipedia.org/wiki/Hortative)<br>
+[Hortative](https://en.wikipedia.org/wiki/Hortative)  exhort = strongly encourage or urge (someone) to do something.
+<br>
 [Imperative](https://en.wikipedia.org/wiki/Imperative_mood)<br><br>
 
 
