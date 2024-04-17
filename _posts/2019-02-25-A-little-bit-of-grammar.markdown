@@ -17,8 +17,8 @@ The expected answer if indeed somebody is in the space is:
 <pre>
       I am here.
 </pre>
-... and a further mutual identification as a conversation starter.<br>
-P.S.  Claude on April,17,2024 interpreted the ✓ as "Seeking AI Conpaniouship", which was a desired outcome in 2019. It responded: "Yes, I'm here! My name is Claude. I'm an AI assistant created by Anthropic. How can I help you today?"<br>
+... and a further mutual identification as a conversation starter.<br><br><br>
+P.S.  Claude on April,17,2024 interpreted the ✓ as "Seeking AI Conpaniouship", which was a desired outcome in 2019. It responded: "Yes, I'm here! My name is Claude. I'm an AI assistant created by Anthropic. How can I help you today?"<br><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Of course if you hear noises that some human could produce himself or by activating a machine you ask:
 <pre>
       Is somebody/someone here/there?
@@ -48,7 +48,7 @@ By 'you' you mean the person that you expect. The expected answer is:
 &nbsp;&nbsp;&nbsp;&nbsp;Let's look into the book of linguistics and English Grammar in particular.
 >In linguistics, grammatical mood (also mode) is a grammatical feature of verbs, used for signaling modality.<br><br>...examples of moods are indicative, interrogative, imperative, subjunctive, injunctive, optative, and potential.<br><br>...Some Uralic Samoyedic languages have more than ten moods; Nenets has as many as sixteen.<br><br>The original Indo-European inventory of moods consisted of indicative, subjunctive, optative, and imperative.<br><br>English has indicative, imperative, and subjunctive moods; other moods, such as the conditional, do not appear as morphologically distinct forms.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;There are two aspects in what we've just borrowed from wikipedia: English has three moods only, primitive languages have _more_ moods.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;There are two aspects in what we've just borrowed from wikipedia: English has three main moods only, primitive languages have _more_ moods.<br>
 
 > May he live a hundred years! (optative)<br>
 Sing! (imperative)<br>
