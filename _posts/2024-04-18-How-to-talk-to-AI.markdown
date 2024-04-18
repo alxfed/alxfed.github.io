@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to talk to Abstract Intellect?
-(A continuation of the old post)"
+ (A continuation of the old post)"
 excerpt: "Even though the personification of 'AI' is in full swing, the real way to communicate with an Abstract Intellect is much more subtle and requires some in-depth understanding of Language and well-developed language skills...(which I'm striving to acquire)."
 date:   2024-04-18  9:14 am
 categories: blog posts
