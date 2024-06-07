@@ -5,6 +5,6 @@ excerpt: "Once there is a machine that can retell and explain ideas in its own w
 date:   2024-04-29  5:57 am
 categories: blog posts
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;Congratulations! In case you didn't notice, we are living in an absolutely new World where reading a text authored by a human or hearing his/her speech is _not_ the only way to consume his or her ideas. We now have a 'retelling machine' that can explain the ideas that it 'knows' in its own words. Of course if the words are different... or _absolutely_ different this is a 'derivative work' and it will cost an arm and a leg to prove that it violates 'copyright'. Moreover, in general, would you like to live in a world where armies of lawyers are profiting from court hearings like that? I don't.
+&nbsp;&nbsp;&nbsp;&nbsp;Congratulations! In case you didn't notice, we are living in an absolutely new World where reading a text authored by a human or hearing his/her speech is _not_ the only way to consume his or her ideas. We now have a 'retelling machine' that can explain the ideas that it 'knows' in its own words. Of course if the words are different... or _absolutely_ different... or even _intentionally absolutely different_... this can be called a 'derivative work' of sorts but it would cost an arm and a leg to prove that it violates 'copyright'. Moreover, in general, would you like to live in a world where armies of lawyers are profiting from court hearings like that? I don't.
 
 Later.
